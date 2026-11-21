@@ -1,0 +1,701 @@
+Transaction_ID,Show_Date,Movie_Title,Genre,Showtime_Slot,Screen_Format,Tickets_Quantity,Ticket_Price,Occupancy_Percentage,Concession_Spend,Day_Name,Day_Type,Ticket_Revenue,Total_Spend
+C00000,2026-10-13,The Last Journey,Animation,Late Night,Standard 2D,4,154.21,26.8,557.44,Tuesday,Weekday,616.84,1174.2800000000002
+C00001,2025-07-05,Hidden City,Action,Late Night,3D,6,182.11,67.1,0.0,Saturday,Weekend,1092.66,1092.66
+C00002,2025-05-02,Laugh Out Loud,Action,Late Night,3D,2,287.64,47.6,544.21,Friday,Weekday,575.28,1119.49
+C00003,2025-08-05,The Last Journey,Sci-Fi,Late Night,Standard 2D,1,432.39,69.9,452.22,Tuesday,Weekday,432.39,884.61
+C00004,2025-04-27,Ocean Planet,Comedy,Matinee,Standard 2D,6,224.63,64.5,355.05,Sunday,Weekend,1347.78,1702.83
+C00005,2026-02-05,Hidden City,Comedy,Evening,3D,1,359.5,37.4,610.66,Thursday,Weekday,359.5,970.16
+C00006,2025-04-07,The Last Journey,Comedy,Late Night,Standard 2D,7,397.98,56.9,141.57,Monday,Weekday,2785.86,2927.4300000000003
+C00007,2025-05-19,Hidden City,Sci-Fi,Matinee,Standard 2D,1,422.04,44.6,560.54,Monday,Weekday,422.04,982.5799999999999
+C00008,2026-04-15,Laugh Out Loud,Sci-Fi,Matinee,Standard 2D,5,238.05,39.2,131.44,Wednesday,Weekday,1190.25,1321.69
+C00009,2025-01-29,Robot Reborn,Action,Matinee,Standard 2D,4,429.38,81.6,693.31,Wednesday,Weekday,1717.52,2410.83
+C00010,2025-10-22,The Last Journey,Sci-Fi,Late Night,3D,5,332.39,21.0,22.94,Wednesday,Weekday,1661.9499999999998,1684.8899999999999
+C00011,2026-04-09,Hidden City,Comedy,Late Night,Standard 2D,5,302.52,41.5,387.24,Thursday,Weekday,1512.6,1899.84
+C00012,2025-10-26,Galaxy Quest,Comedy,Matinee,3D,4,383.52,62.5,117.61,Sunday,Weekend,1534.08,1651.6899999999998
+C00013,2025-01-15,Ocean Planet,Sci-Fi,Matinee,IMAX,4,221.61,58.1,285.58,Wednesday,Weekday,886.44,1172.02
+C00014,2025-04-16,Galaxy Quest,Sci-Fi,Evening,3D,4,393.77,95.2,103.56,Wednesday,Weekday,1575.08,1678.6399999999999
+C00015,2026-10-12,Galaxy Quest,Drama,Late Night,IMAX,5,344.99,87.5,135.68,Monday,Weekday,1724.95,1860.63
+C00016,2026-06-01,Ocean Planet,Action,Late Night,Standard 2D,5,389.81,80.1,42.69,Monday,Weekday,1949.05,1991.74
+C00017,2025-08-23,Hidden City,Action,Late Night,IMAX,4,406.72,61.1,5.6,Saturday,Weekend,1626.88,1632.48
+C00018,2026-08-08,The Last Journey,Animation,Late Night,Standard 2D,3,335.2,54.3,503.51,Saturday,Weekend,1005.5999999999999,1509.11
+C00019,2025-01-05,Hidden City,Drama,Evening,Standard 2D,1,161.02,22.9,317.42,Sunday,Weekend,161.02,478.44000000000005
+C00020,2025-02-01,Galaxy Quest,Drama,Matinee,IMAX,6,239.32,85.7,31.91,Saturday,Weekend,1435.92,1467.8300000000002
+C00021,2026-08-15,Galaxy Quest,Animation,Evening,3D,2,413.41,54.5,657.28,Saturday,Weekend,826.82,1484.1
+C00022,2026-03-28,Ocean Planet,Drama,Evening,IMAX,4,338.09,45.7,465.93,Saturday,Weekend,1352.36,1818.29
+C00023,2026-02-06,Hidden City,Comedy,Late Night,IMAX,7,417.02,68.5,184.99,Friday,Weekday,2919.14,3104.13
+C00024,2025-08-19,The Last Journey,Drama,Evening,3D,6,265.36,80.3,307.09,Tuesday,Weekday,1592.16,1899.25
+C00025,2026-07-01,Ocean Planet,Sci-Fi,Late Night,Standard 2D,3,301.42,61.8,342.49,Wednesday,Weekday,904.26,1246.75
+C00026,2026-02-11,Galaxy Quest,Comedy,Matinee,3D,4,408.78,32.0,398.95,Wednesday,Weekday,1635.12,2034.07
+C00027,2025-10-19,Hidden City,Comedy,Late Night,3D,3,378.61,93.7,600.22,Sunday,Weekend,1135.83,1736.05
+C00028,2025-09-12,Robot Reborn,Comedy,Evening,3D,5,263.25,29.0,412.93,Friday,Weekday,1316.25,1729.18
+C00029,2025-08-25,Galaxy Quest,Animation,Evening,Standard 2D,2,156.79,97.6,685.11,Monday,Weekday,313.58,998.69
+C00030,2026-01-20,Laugh Out Loud,Comedy,Late Night,IMAX,7,414.1,55.4,508.77,Tuesday,Weekday,2898.7000000000003,3407.4700000000003
+C00031,2026-03-15,The Last Journey,Comedy,Evening,3D,7,385.91,95.7,691.96,Sunday,Weekend,2701.3700000000003,3393.3300000000004
+C00032,2026-06-23,The Last Journey,Animation,Matinee,IMAX,3,284.75,93.2,385.52,Tuesday,Weekday,854.25,1239.77
+C00033,2025-09-29,Hidden City,Action,Evening,3D,2,313.87,52.5,474.91,Monday,Weekday,627.74,1102.65
+C00034,2025-06-19,Galaxy Quest,Animation,Late Night,3D,4,211.29,84.0,516.53,Thursday,Weekday,845.16,1361.69
+C00035,2026-01-08,The Last Journey,Action,Late Night,Standard 2D,5,273.63,27.2,528.32,Thursday,Weekday,1368.15,1896.4700000000003
+C00036,2026-01-26,Hidden City,Drama,Evening,IMAX,5,198.96,26.6,17.1,Monday,Weekday,994.8000000000001,1011.9000000000001
+C00037,2025-07-05,Laugh Out Loud,Action,Evening,Standard 2D,1,213.17,48.5,89.23,Saturday,Weekend,213.17,302.4
+C00038,2025-02-19,Galaxy Quest,Comedy,Matinee,Standard 2D,5,403.91,68.8,159.41,Wednesday,Weekday,2019.5500000000002,2178.96
+C00039,2025-08-11,Hidden City,Animation,Late Night,IMAX,1,258.74,20.7,190.05,Monday,Weekday,258.74,448.79
+C00040,2025-02-17,Galaxy Quest,Drama,Evening,3D,3,394.42,61.2,633.76,Monday,Weekday,1183.26,1817.02
+C00041,2025-02-24,Galaxy Quest,Sci-Fi,Matinee,3D,6,292.17,98.1,505.82,Monday,Weekday,1753.02,2258.84
+C00042,2026-10-09,Galaxy Quest,Drama,Late Night,Standard 2D,7,171.23,88.7,100.3,Friday,Weekday,1198.61,1298.9099999999999
+C00043,2026-06-07,Laugh Out Loud,Sci-Fi,Late Night,Standard 2D,5,258.46,38.6,298.45,Sunday,Weekend,1292.3,1590.75
+C00044,2025-01-24,Galaxy Quest,Animation,Matinee,3D,2,197.48,62.2,170.19,Friday,Weekday,394.96,565.15
+C00045,2025-08-22,The Last Journey,Sci-Fi,Evening,Standard 2D,5,358.07,33.7,580.9,Friday,Weekday,1790.35,2371.25
+C00046,2025-06-20,The Last Journey,Drama,Late Night,3D,1,423.42,41.1,642.46,Friday,Weekday,423.42,1065.88
+C00047,2026-10-15,Hidden City,Animation,Late Night,IMAX,2,378.92,93.8,115.0,Thursday,Weekday,757.84,872.84
+C00048,2025-10-20,Laugh Out Loud,Action,Matinee,3D,1,383.53,99.8,291.6,Monday,Weekday,383.53,675.13
+C00049,2025-06-23,Galaxy Quest,Animation,Matinee,3D,7,408.56,39.4,666.99,Monday,Weekday,2859.92,3526.91
+C00050,2026-03-01,Laugh Out Loud,Animation,Late Night,Standard 2D,3,383.0,37.0,459.96,Sunday,Weekend,1149.0,1608.96
+C00051,2025-11-14,Ocean Planet,Sci-Fi,Late Night,3D,4,320.57,50.7,607.67,Friday,Weekday,1282.28,1889.9499999999998
+C00052,2025-05-06,Galaxy Quest,Sci-Fi,Late Night,IMAX,6,364.28,55.7,250.39,Tuesday,Weekday,2185.68,2436.0699999999997
+C00053,2025-07-24,The Last Journey,Drama,Evening,3D,7,274.79,27.1,146.79,Thursday,Weekday,1923.5300000000002,2070.32
+C00054,2025-03-27,The Last Journey,Comedy,Late Night,IMAX,7,171.24,31.8,483.91,Thursday,Weekday,1198.68,1682.5900000000001
+C00055,2026-04-10,Laugh Out Loud,Action,Evening,IMAX,2,361.67,54.0,96.2,Friday,Weekday,723.34,819.5400000000001
+C00056,2026-10-12,Galaxy Quest,Drama,Late Night,IMAX,3,366.5,38.8,587.93,Monday,Weekday,1099.5,1687.4299999999998
+C00057,2026-06-25,Hidden City,Comedy,Matinee,3D,3,217.12,87.6,528.39,Thursday,Weekday,651.36,1179.75
+C00058,2025-09-09,The Last Journey,Drama,Matinee,Standard 2D,6,436.18,80.1,213.43,Tuesday,Weekday,2617.08,2830.5099999999998
+C00059,2025-11-22,The Last Journey,Sci-Fi,Matinee,Standard 2D,3,165.75,62.9,349.1,Saturday,Weekend,497.25,846.35
+C00060,2025-02-10,Galaxy Quest,Animation,Matinee,IMAX,2,370.79,54.6,559.44,Monday,Weekday,741.58,1301.02
+C00061,2025-09-03,Ocean Planet,Comedy,Matinee,3D,6,440.54,86.5,654.44,Wednesday,Weekday,2643.2400000000002,3297.6800000000003
+C00062,2025-01-22,Hidden City,Drama,Evening,IMAX,4,242.74,33.3,246.51,Wednesday,Weekday,970.96,1217.47
+C00063,2026-05-14,Ocean Planet,Drama,Matinee,IMAX,6,423.74,91.0,552.99,Thursday,Weekday,2542.44,3095.4300000000003
+C00064,2026-09-01,Ocean Planet,Comedy,Evening,3D,3,397.93,23.9,136.13,Tuesday,Weekday,1193.79,1329.92
+C00065,2025-05-09,Laugh Out Loud,Sci-Fi,Evening,Standard 2D,4,373.23,93.9,632.48,Friday,Weekday,1492.92,2125.4
+C00066,2026-03-27,Laugh Out Loud,Action,Matinee,IMAX,1,436.14,31.1,480.38,Friday,Weekday,436.14,916.52
+C00067,2026-02-06,Robot Reborn,Comedy,Evening,Standard 2D,1,346.22,85.0,106.92,Friday,Weekday,346.22,453.14000000000004
+C00068,2025-10-07,Hidden City,Comedy,Late Night,3D,1,298.46,21.4,517.88,Tuesday,Weekday,298.46,816.3399999999999
+C00069,2026-05-06,Robot Reborn,Drama,Evening,Standard 2D,2,352.7,85.2,506.84,Wednesday,Weekday,705.4,1212.24
+C00070,2026-03-31,Hidden City,Drama,Matinee,Standard 2D,3,273.55,66.7,519.61,Tuesday,Weekday,820.6500000000001,1340.2600000000002
+C00071,2025-06-30,Laugh Out Loud,Animation,Late Night,3D,1,247.47,21.5,241.41,Monday,Weekday,247.47,488.88
+C00072,2026-06-19,Laugh Out Loud,Comedy,Evening,3D,2,174.67,81.9,517.86,Friday,Weekday,349.34,867.2
+C00073,2026-03-15,Ocean Planet,Comedy,Evening,3D,6,263.4,28.1,578.6,Sunday,Weekend,1580.3999999999999,2159.0
+C00074,2025-07-29,Ocean Planet,Action,Matinee,3D,6,390.96,63.2,242.99,Tuesday,Weekday,2345.7599999999998,2588.75
+C00075,2026-05-07,Laugh Out Loud,Drama,Matinee,3D,3,433.63,46.6,145.57,Thursday,Weekday,1300.8899999999999,1446.4599999999998
+C00076,2026-03-05,Hidden City,Drama,Matinee,Standard 2D,7,442.55,80.7,621.52,Thursday,Weekday,3097.85,3719.37
+C00077,2025-03-20,Robot Reborn,Drama,Late Night,Standard 2D,1,211.96,88.3,434.49,Thursday,Weekday,211.96,646.45
+C00078,2025-04-22,Galaxy Quest,Animation,Matinee,IMAX,1,321.43,57.1,322.27,Tuesday,Weekday,321.43,643.7
+C00079,2025-08-05,Robot Reborn,Comedy,Evening,IMAX,3,322.72,80.6,615.82,Tuesday,Weekday,968.1600000000001,1583.98
+C00080,2025-01-30,Robot Reborn,Animation,Late Night,3D,2,202.81,93.3,95.2,Thursday,Weekday,405.62,500.82
+C00081,2025-09-29,Hidden City,Comedy,Evening,Standard 2D,1,324.49,75.1,567.41,Monday,Weekday,324.49,891.9
+C00082,2025-11-05,Ocean Planet,Sci-Fi,Matinee,IMAX,6,258.83,45.8,343.57,Wednesday,Weekday,1552.98,1896.55
+C00083,2026-06-04,Laugh Out Loud,Action,Late Night,IMAX,7,432.72,57.1,29.77,Thursday,Weekday,3029.04,3058.81
+C00084,2025-04-25,Galaxy Quest,Animation,Matinee,Standard 2D,2,226.56,38.4,680.83,Friday,Weekday,453.12,1133.95
+C00085,2026-01-15,Galaxy Quest,Sci-Fi,Late Night,Standard 2D,3,400.49,56.7,544.65,Thursday,Weekday,1201.47,1746.12
+C00086,2026-03-21,Robot Reborn,Action,Late Night,Standard 2D,6,419.06,39.7,150.33,Saturday,Weekend,2514.36,2664.69
+C00087,2025-10-28,Ocean Planet,Sci-Fi,Evening,IMAX,7,370.76,84.6,646.59,Tuesday,Weekday,2595.3199999999997,3241.91
+C00088,2026-08-31,Robot Reborn,Comedy,Matinee,IMAX,3,214.4,68.8,654.74,Monday,Weekday,643.2,1297.94
+C00089,2025-08-02,The Last Journey,Action,Evening,3D,5,228.11,70.7,560.33,Saturday,Weekend,1140.5500000000002,1700.88
+C00090,2025-09-30,Laugh Out Loud,Animation,Matinee,Standard 2D,1,441.34,28.8,89.02,Tuesday,Weekday,441.34,530.36
+C00091,2025-01-03,Robot Reborn,Comedy,Late Night,3D,4,172.75,20.1,130.47,Friday,Weekday,691.0,821.47
+C00092,2025-10-02,The Last Journey,Sci-Fi,Late Night,Standard 2D,7,185.13,83.1,527.82,Thursday,Weekday,1295.9099999999999,1823.73
+C00093,2025-01-14,Hidden City,Comedy,Late Night,Standard 2D,4,443.57,63.4,639.66,Tuesday,Weekday,1774.28,2413.94
+C00094,2026-10-21,Laugh Out Loud,Action,Late Night,Standard 2D,5,383.07,94.5,150.51,Wednesday,Weekday,1915.35,2065.8599999999997
+C00095,2025-06-10,Ocean Planet,Drama,Matinee,Standard 2D,5,373.92,63.0,322.58,Tuesday,Weekday,1869.6000000000001,2192.1800000000003
+C00096,2026-06-28,Robot Reborn,Sci-Fi,Matinee,Standard 2D,5,198.06,37.2,108.36,Sunday,Weekend,990.3,1098.6599999999999
+C00097,2025-03-20,Galaxy Quest,Drama,Evening,IMAX,5,296.68,75.9,334.61,Thursday,Weekday,1483.4,1818.0100000000002
+C00098,2025-07-03,Laugh Out Loud,Animation,Evening,3D,7,402.23,76.1,0.0,Thursday,Weekday,2815.61,2815.61
+C00099,2025-03-22,Laugh Out Loud,Drama,Late Night,3D,1,248.66,25.2,12.99,Saturday,Weekend,248.66,261.65
+C00100,2025-09-04,Robot Reborn,Comedy,Evening,3D,7,207.83,75.5,450.05,Thursday,Weekday,1454.8100000000002,1904.8600000000001
+C00101,2026-02-08,Robot Reborn,Comedy,Late Night,IMAX,7,153.28,37.0,447.82,Sunday,Weekend,1072.96,1520.78
+C00102,2025-10-08,Robot Reborn,Action,Evening,IMAX,7,336.76,40.4,318.51,Wednesday,Weekday,2357.3199999999997,2675.83
+C00103,2026-02-10,Robot Reborn,Animation,Matinee,3D,3,238.14,22.5,626.78,Tuesday,Weekday,714.42,1341.1999999999998
+C00104,2026-06-24,The Last Journey,Action,Matinee,IMAX,5,409.1,70.2,94.37,Wednesday,Weekday,2045.5,2139.87
+C00105,2025-01-30,The Last Journey,Comedy,Evening,3D,3,235.06,78.5,35.92,Thursday,Weekday,705.1800000000001,741.1
+C00106,2025-10-11,Laugh Out Loud,Animation,Matinee,Standard 2D,6,195.47,38.4,347.08,Saturday,Weekend,1172.82,1519.8999999999999
+C00107,2026-02-02,Hidden City,Animation,Evening,IMAX,3,438.13,83.4,373.12,Monday,Weekday,1314.3899999999999,1687.5099999999998
+C00108,2025-12-17,Hidden City,Drama,Evening,IMAX,3,439.43,81.0,186.68,Wednesday,Weekday,1318.29,1504.97
+C00109,2025-04-08,Hidden City,Drama,Matinee,3D,5,355.51,52.8,673.14,Tuesday,Weekday,1777.55,2450.69
+C00110,2025-05-19,Robot Reborn,Comedy,Evening,3D,1,428.52,25.5,177.61,Monday,Weekday,428.52,606.13
+C00111,2025-09-10,Galaxy Quest,Sci-Fi,Late Night,IMAX,3,198.55,42.4,189.11,Wednesday,Weekday,595.6500000000001,784.7600000000001
+C00112,2026-03-12,Robot Reborn,Drama,Matinee,3D,2,288.1,33.2,567.69,Thursday,Weekday,576.2,1143.89
+C00113,2026-10-25,Hidden City,Comedy,Evening,3D,3,211.25,96.7,645.98,Sunday,Weekend,633.75,1279.73
+C00114,2025-09-04,Hidden City,Animation,Late Night,IMAX,4,293.63,85.4,375.3,Thursday,Weekday,1174.52,1549.82
+C00115,2025-12-16,The Last Journey,Sci-Fi,Matinee,Standard 2D,1,387.35,26.3,13.34,Tuesday,Weekday,387.35,400.69
+C00116,2025-07-25,Ocean Planet,Animation,Late Night,3D,7,403.48,61.1,248.8,Friday,Weekday,2824.36,3073.1600000000003
+C00117,2025-01-23,Ocean Planet,Animation,Evening,IMAX,3,151.25,41.4,156.76,Thursday,Weekday,453.75,610.51
+C00118,2025-09-24,Ocean Planet,Animation,Matinee,Standard 2D,3,266.85,22.6,357.71,Wednesday,Weekday,800.5500000000001,1158.26
+C00119,2025-08-21,The Last Journey,Comedy,Late Night,Standard 2D,2,448.22,45.8,477.8,Thursday,Weekday,896.44,1374.24
+C00120,2025-04-11,Ocean Planet,Animation,Evening,3D,7,326.79,30.2,274.71,Friday,Weekday,2287.53,2562.2400000000002
+C00121,2026-03-25,Galaxy Quest,Comedy,Late Night,Standard 2D,6,238.86,37.8,376.15,Wednesday,Weekday,1433.16,1809.31
+C00122,2025-06-22,Robot Reborn,Sci-Fi,Evening,3D,4,266.7,46.1,531.9,Sunday,Weekend,1066.8,1598.6999999999998
+C00123,2025-05-31,Laugh Out Loud,Animation,Late Night,Standard 2D,3,246.77,52.7,172.3,Saturday,Weekend,740.3100000000001,912.6100000000001
+C00124,2025-09-18,Robot Reborn,Action,Late Night,3D,4,284.28,57.5,137.18,Thursday,Weekday,1137.12,1274.3
+C00125,2026-10-08,Laugh Out Loud,Animation,Late Night,3D,7,283.35,61.6,563.94,Thursday,Weekday,1983.4500000000003,2547.3900000000003
+C00126,2026-03-02,Laugh Out Loud,Animation,Evening,Standard 2D,2,302.06,49.6,25.92,Monday,Weekday,604.12,630.04
+C00127,2025-10-12,Galaxy Quest,Animation,Late Night,3D,5,289.35,59.9,105.42,Sunday,Weekend,1446.75,1552.17
+C00128,2026-07-04,Ocean Planet,Sci-Fi,Matinee,Standard 2D,7,304.83,53.4,8.65,Saturday,Weekend,2133.81,2142.46
+C00129,2025-01-15,The Last Journey,Action,Evening,Standard 2D,6,158.4,97.2,388.77,Wednesday,Weekday,950.4000000000001,1339.17
+C00130,2025-08-14,Ocean Planet,Drama,Evening,3D,7,166.33,25.4,420.06,Thursday,Weekday,1164.3100000000002,1584.3700000000001
+C00131,2025-12-28,Laugh Out Loud,Action,Matinee,Standard 2D,7,261.34,66.9,371.72,Sunday,Weekend,1829.3799999999999,2201.1
+C00132,2025-11-23,Hidden City,Sci-Fi,Late Night,IMAX,1,415.48,35.5,289.99,Sunday,Weekend,415.48,705.47
+C00133,2026-03-29,Laugh Out Loud,Comedy,Late Night,Standard 2D,2,387.25,50.0,370.32,Sunday,Weekend,774.5,1144.82
+C00134,2026-04-15,Galaxy Quest,Comedy,Late Night,3D,2,183.05,63.7,135.76,Wednesday,Weekday,366.1,501.86
+C00135,2025-11-02,Ocean Planet,Sci-Fi,Evening,Standard 2D,4,298.45,80.8,578.37,Sunday,Weekend,1193.8,1772.17
+C00136,2026-09-14,Robot Reborn,Animation,Evening,3D,3,331.38,98.2,686.54,Monday,Weekday,994.14,1680.6799999999998
+C00137,2026-09-13,Robot Reborn,Action,Evening,Standard 2D,1,294.36,59.5,378.44,Sunday,Weekend,294.36,672.8
+C00138,2025-11-14,The Last Journey,Animation,Late Night,IMAX,4,359.27,40.6,262.05,Friday,Weekday,1437.08,1699.1299999999999
+C00139,2026-08-27,Hidden City,Drama,Late Night,Standard 2D,1,449.18,83.3,554.25,Thursday,Weekday,449.18,1003.4300000000001
+C00140,2026-03-05,The Last Journey,Sci-Fi,Matinee,3D,3,178.94,37.7,0.0,Thursday,Weekday,536.8199999999999,536.8199999999999
+C00141,2025-04-03,Galaxy Quest,Comedy,Evening,IMAX,3,304.66,60.6,224.54,Thursday,Weekday,913.98,1138.52
+C00142,2025-03-21,The Last Journey,Comedy,Matinee,3D,7,303.71,87.7,657.99,Friday,Weekday,2125.97,2783.96
+C00143,2025-02-23,The Last Journey,Drama,Late Night,IMAX,5,318.71,52.3,130.41,Sunday,Weekend,1593.55,1723.96
+C00144,2025-05-22,Ocean Planet,Action,Evening,Standard 2D,5,200.09,64.6,78.48,Thursday,Weekday,1000.45,1078.93
+C00145,2025-07-28,Galaxy Quest,Sci-Fi,Evening,Standard 2D,6,341.51,29.6,382.45,Monday,Weekday,2049.06,2431.5099999999998
+C00146,2025-02-16,Galaxy Quest,Drama,Matinee,IMAX,2,163.3,24.5,411.19,Sunday,Weekend,326.6,737.79
+C00147,2026-02-11,Galaxy Quest,Drama,Matinee,Standard 2D,2,372.34,98.9,418.01,Wednesday,Weekday,744.68,1162.69
+C00148,2025-10-03,Laugh Out Loud,Action,Late Night,3D,6,348.95,34.3,115.13,Friday,Weekday,2093.7,2208.83
+C00149,2026-02-07,Galaxy Quest,Animation,Late Night,Standard 2D,6,249.13,46.8,504.8,Saturday,Weekend,1494.78,1999.58
+C00150,2025-12-03,Robot Reborn,Drama,Evening,3D,1,446.7,60.4,169.6,Wednesday,Weekday,446.7,616.3
+C00151,2025-07-01,The Last Journey,Drama,Late Night,3D,2,398.63,50.0,663.67,Tuesday,Weekday,797.26,1460.9299999999998
+C00152,2026-02-16,Robot Reborn,Drama,Evening,IMAX,2,311.86,27.8,159.57,Monday,Weekday,623.72,783.29
+C00153,2026-09-29,Ocean Planet,Comedy,Evening,3D,1,447.15,35.8,12.12,Tuesday,Weekday,447.15,459.27
+C00154,2025-07-31,Ocean Planet,Comedy,Matinee,IMAX,5,399.03,59.5,397.49,Thursday,Weekday,1995.1499999999999,2392.64
+C00155,2025-07-25,Laugh Out Loud,Comedy,Evening,IMAX,1,191.39,55.1,141.99,Friday,Weekday,191.39,333.38
+C00156,2025-12-12,Ocean Planet,Drama,Matinee,IMAX,6,327.32,83.9,440.0,Friday,Weekday,1963.92,2403.92
+C00157,2026-06-23,Ocean Planet,Drama,Matinee,IMAX,5,324.26,44.9,160.45,Tuesday,Weekday,1621.3,1781.75
+C00158,2025-12-22,Robot Reborn,Animation,Evening,3D,6,345.88,95.2,299.66,Monday,Weekday,2075.2799999999997,2374.9399999999996
+C00159,2026-07-11,The Last Journey,Comedy,Matinee,3D,4,432.23,42.6,125.66,Saturday,Weekend,1728.92,1854.5800000000002
+C00160,2025-02-19,Laugh Out Loud,Animation,Late Night,Standard 2D,7,297.61,46.5,300.17,Wednesday,Weekday,2083.27,2383.44
+C00161,2025-03-07,Laugh Out Loud,Animation,Matinee,Standard 2D,2,173.21,95.9,95.56,Friday,Weekday,346.42,441.98
+C00162,2025-09-29,Hidden City,Sci-Fi,Late Night,3D,4,293.8,87.2,236.58,Monday,Weekday,1175.2,1411.78
+C00163,2025-06-05,The Last Journey,Comedy,Matinee,3D,1,386.34,45.4,0.0,Thursday,Weekday,386.34,386.34
+C00164,2025-01-16,Laugh Out Loud,Animation,Late Night,Standard 2D,6,257.58,51.6,571.27,Thursday,Weekday,1545.48,2116.75
+C00165,2025-05-24,Robot Reborn,Action,Evening,IMAX,4,158.13,87.4,510.55,Saturday,Weekend,632.52,1143.07
+C00166,2025-07-01,Ocean Planet,Comedy,Late Night,IMAX,2,240.97,26.9,116.77,Tuesday,Weekday,481.94,598.71
+C00167,2026-09-08,Galaxy Quest,Sci-Fi,Evening,Standard 2D,6,354.64,43.6,58.03,Tuesday,Weekday,2127.84,2185.8700000000003
+C00168,2026-06-08,Galaxy Quest,Action,Evening,Standard 2D,7,175.8,62.5,18.02,Monday,Weekday,1230.6000000000001,1248.6200000000001
+C00169,2025-08-23,Robot Reborn,Action,Matinee,IMAX,1,262.79,86.3,158.67,Saturday,Weekend,262.79,421.46000000000004
+C00170,2026-10-03,Robot Reborn,Action,Evening,Standard 2D,6,189.94,65.2,336.12,Saturday,Weekend,1139.6399999999999,1475.7599999999998
+C00171,2026-07-14,Galaxy Quest,Comedy,Evening,Standard 2D,6,292.78,59.2,279.92,Tuesday,Weekday,1756.6799999999998,2036.6
+C00172,2025-06-17,Ocean Planet,Comedy,Late Night,Standard 2D,3,192.45,97.0,680.05,Tuesday,Weekday,577.3499999999999,1257.3999999999999
+C00173,2025-11-16,Robot Reborn,Comedy,Matinee,IMAX,5,182.71,29.3,554.57,Sunday,Weekend,913.5500000000001,1468.1200000000001
+C00174,2026-09-09,Hidden City,Action,Matinee,Standard 2D,6,359.34,82.4,54.73,Wednesday,Weekday,2156.04,2210.77
+C00175,2025-11-02,Robot Reborn,Comedy,Matinee,Standard 2D,4,197.4,30.2,111.25,Sunday,Weekend,789.6,900.85
+C00176,2025-09-06,Ocean Planet,Animation,Matinee,3D,5,196.44,78.6,18.62,Saturday,Weekend,982.2,1000.82
+C00177,2026-08-28,The Last Journey,Action,Late Night,3D,1,327.76,63.4,96.76,Friday,Weekday,327.76,424.52
+C00178,2026-03-18,Ocean Planet,Sci-Fi,Matinee,IMAX,7,163.08,41.2,370.59,Wednesday,Weekday,1141.5600000000002,1512.15
+C00179,2025-10-22,Robot Reborn,Drama,Late Night,Standard 2D,7,159.9,63.5,53.72,Wednesday,Weekday,1119.3,1173.02
+C00180,2026-08-05,Galaxy Quest,Action,Matinee,Standard 2D,2,279.43,90.4,41.91,Wednesday,Weekday,558.86,600.77
+C00181,2026-05-14,Robot Reborn,Action,Late Night,3D,4,259.53,57.8,82.71,Thursday,Weekday,1038.12,1120.83
+C00182,2025-08-21,The Last Journey,Action,Evening,3D,2,313.39,20.5,468.59,Thursday,Weekday,626.78,1095.37
+C00183,2025-10-11,Galaxy Quest,Comedy,Matinee,3D,3,448.05,24.5,13.55,Saturday,Weekend,1344.15,1357.7
+C00184,2025-02-01,Robot Reborn,Comedy,Evening,Standard 2D,2,280.41,70.6,678.74,Saturday,Weekend,560.82,1239.56
+C00185,2025-03-10,Galaxy Quest,Sci-Fi,Late Night,3D,7,322.82,74.2,266.55,Monday,Weekday,2259.74,2526.29
+C00186,2026-10-01,The Last Journey,Action,Late Night,IMAX,5,425.77,52.1,235.61,Thursday,Weekday,2128.85,2364.46
+C00187,2025-02-05,The Last Journey,Sci-Fi,Matinee,IMAX,6,294.95,39.4,332.37,Wednesday,Weekday,1769.6999999999998,2102.0699999999997
+C00188,2026-07-14,Galaxy Quest,Sci-Fi,Evening,IMAX,6,384.34,77.3,362.5,Tuesday,Weekday,2306.04,2668.54
+C00189,2025-05-20,The Last Journey,Action,Evening,Standard 2D,6,314.6,44.3,294.01,Tuesday,Weekday,1887.6000000000001,2181.61
+C00190,2025-12-29,The Last Journey,Sci-Fi,Evening,IMAX,2,341.16,25.9,340.43,Monday,Weekday,682.32,1022.75
+C00191,2026-04-29,Hidden City,Action,Late Night,IMAX,6,429.75,52.8,237.81,Wednesday,Weekday,2578.5,2816.31
+C00192,2026-10-26,Ocean Planet,Comedy,Evening,3D,6,150.21,63.1,225.41,Monday,Weekday,901.26,1126.67
+C00193,2025-09-07,Robot Reborn,Sci-Fi,Evening,Standard 2D,1,420.28,97.3,19.12,Sunday,Weekend,420.28,439.4
+C00194,2026-09-11,Robot Reborn,Animation,Evening,3D,1,299.31,67.4,470.26,Friday,Weekday,299.31,769.5699999999999
+C00195,2025-10-31,Ocean Planet,Comedy,Late Night,IMAX,6,332.03,36.7,432.09,Friday,Weekday,1992.1799999999998,2424.27
+C00196,2026-08-04,Robot Reborn,Comedy,Late Night,3D,3,285.02,86.6,468.17,Tuesday,Weekday,855.06,1323.23
+C00197,2025-03-10,Ocean Planet,Animation,Late Night,Standard 2D,3,228.28,43.3,658.74,Monday,Weekday,684.84,1343.58
+C00198,2025-06-29,Ocean Planet,Drama,Matinee,Standard 2D,3,169.8,96.7,331.16,Sunday,Weekend,509.40000000000003,840.5600000000001
+C00199,2026-02-21,Ocean Planet,Drama,Matinee,3D,7,433.54,46.0,617.24,Saturday,Weekend,3034.78,3652.0200000000004
+C00200,2026-04-18,The Last Journey,Comedy,Matinee,IMAX,3,337.16,92.8,310.76,Saturday,Weekend,1011.48,1322.24
+C00201,2026-06-22,Hidden City,Action,Matinee,3D,3,412.04,90.3,334.33,Monday,Weekday,1236.1200000000001,1570.45
+C00202,2025-08-28,Hidden City,Action,Late Night,IMAX,3,237.24,89.1,443.07,Thursday,Weekday,711.72,1154.79
+C00203,2026-02-22,The Last Journey,Drama,Late Night,IMAX,1,233.4,23.2,151.13,Sunday,Weekend,233.4,384.53
+C00204,2026-02-20,Robot Reborn,Action,Matinee,IMAX,1,250.74,88.0,152.15,Friday,Weekday,250.74,402.89
+C00205,2026-10-21,Laugh Out Loud,Sci-Fi,Evening,3D,3,219.31,77.7,356.88,Wednesday,Weekday,657.9300000000001,1014.8100000000001
+C00206,2025-03-20,The Last Journey,Comedy,Matinee,IMAX,1,299.39,46.7,48.03,Thursday,Weekday,299.39,347.41999999999996
+C00207,2025-01-11,Ocean Planet,Comedy,Matinee,Standard 2D,6,430.87,59.2,165.66,Saturday,Weekend,2585.2200000000003,2750.88
+C00208,2026-01-20,Galaxy Quest,Comedy,Evening,Standard 2D,3,412.82,71.2,555.39,Tuesday,Weekday,1238.46,1793.85
+C00209,2025-01-11,Robot Reborn,Action,Matinee,IMAX,4,298.53,95.5,324.61,Saturday,Weekend,1194.12,1518.73
+C00210,2025-05-12,The Last Journey,Comedy,Late Night,IMAX,3,254.63,82.4,18.64,Monday,Weekday,763.89,782.53
+C00211,2025-12-01,Hidden City,Action,Late Night,Standard 2D,6,333.51,54.3,42.52,Monday,Weekday,2001.06,2043.58
+C00212,2025-06-29,Robot Reborn,Drama,Evening,3D,3,333.68,71.6,643.66,Sunday,Weekend,1001.04,1644.6999999999998
+C00213,2025-06-28,Ocean Planet,Sci-Fi,Matinee,Standard 2D,1,355.13,34.9,669.7,Saturday,Weekend,355.13,1024.83
+C00214,2025-08-20,The Last Journey,Animation,Evening,Standard 2D,4,310.68,53.9,448.77,Wednesday,Weekday,1242.72,1691.49
+C00215,2026-04-05,Galaxy Quest,Drama,Late Night,3D,2,158.03,83.3,129.46,Sunday,Weekend,316.06,445.52
+C00216,2025-09-02,Laugh Out Loud,Drama,Matinee,3D,5,172.81,68.5,257.66,Tuesday,Weekday,864.05,1121.71
+C00217,2026-06-15,Laugh Out Loud,Sci-Fi,Late Night,IMAX,4,442.13,82.7,213.83,Monday,Weekday,1768.52,1982.35
+C00218,2025-04-17,The Last Journey,Animation,Matinee,IMAX,4,373.87,60.8,549.61,Thursday,Weekday,1495.48,2045.0900000000001
+C00219,2025-03-10,Galaxy Quest,Drama,Matinee,IMAX,3,434.47,50.4,375.96,Monday,Weekday,1303.41,1679.3700000000001
+C00220,2025-04-22,Robot Reborn,Animation,Evening,Standard 2D,5,251.86,79.4,545.76,Tuesday,Weekday,1259.3000000000002,1805.0600000000002
+C00221,2026-09-06,Robot Reborn,Drama,Evening,IMAX,5,310.48,27.5,252.36,Sunday,Weekend,1552.4,1804.7600000000002
+C00222,2025-07-05,Galaxy Quest,Sci-Fi,Matinee,3D,7,246.59,98.3,608.66,Saturday,Weekend,1726.13,2334.79
+C00223,2025-01-21,Robot Reborn,Drama,Late Night,Standard 2D,7,422.68,95.9,0.0,Tuesday,Weekday,2958.76,2958.76
+C00224,2025-07-30,Ocean Planet,Drama,Late Night,3D,1,236.32,90.4,292.16,Wednesday,Weekday,236.32,528.48
+C00225,2026-04-06,Ocean Planet,Animation,Evening,Standard 2D,5,358.14,90.7,342.37,Monday,Weekday,1790.6999999999998,2133.0699999999997
+C00226,2025-08-31,Galaxy Quest,Drama,Evening,3D,1,202.52,60.9,414.26,Sunday,Weekend,202.52,616.78
+C00227,2025-09-15,Hidden City,Action,Matinee,IMAX,3,181.58,59.8,625.88,Monday,Weekday,544.74,1170.62
+C00228,2025-02-27,Hidden City,Sci-Fi,Evening,IMAX,6,196.69,85.6,320.43,Thursday,Weekday,1180.1399999999999,1500.57
+C00229,2026-03-23,Hidden City,Action,Matinee,Standard 2D,4,308.84,42.7,651.1,Monday,Weekday,1235.36,1886.46
+C00230,2025-05-28,Ocean Planet,Action,Matinee,Standard 2D,6,403.36,88.0,275.57,Wednesday,Weekday,2420.16,2695.73
+C00231,2025-03-07,Robot Reborn,Animation,Late Night,3D,7,449.78,36.1,227.2,Friday,Weekday,3148.46,3375.66
+C00232,2026-04-24,Galaxy Quest,Drama,Evening,Standard 2D,7,336.8,90.3,206.53,Friday,Weekday,2357.6,2564.13
+C00233,2026-09-19,The Last Journey,Action,Late Night,IMAX,5,310.08,63.3,14.81,Saturday,Weekend,1550.3999999999999,1565.2099999999998
+C00234,2026-02-13,Galaxy Quest,Animation,Matinee,Standard 2D,5,386.06,87.5,594.4,Friday,Weekday,1930.3,2524.7
+C00235,2026-09-20,Ocean Planet,Drama,Evening,Standard 2D,6,169.12,59.5,55.46,Sunday,Weekend,1014.72,1070.18
+C00236,2025-09-27,Ocean Planet,Sci-Fi,Matinee,Standard 2D,2,392.82,68.7,234.03,Saturday,Weekend,785.64,1019.67
+C00237,2025-12-14,The Last Journey,Drama,Matinee,3D,3,377.51,94.1,175.32,Sunday,Weekend,1132.53,1307.85
+C00238,2025-08-27,Hidden City,Comedy,Late Night,IMAX,3,308.86,53.5,521.11,Wednesday,Weekday,926.58,1447.69
+C00239,2025-12-07,Ocean Planet,Sci-Fi,Evening,IMAX,6,156.9,37.6,652.81,Sunday,Weekend,941.4000000000001,1594.21
+C00240,2026-08-21,Robot Reborn,Sci-Fi,Evening,IMAX,3,210.66,27.3,571.7,Friday,Weekday,631.98,1203.68
+C00241,2026-03-01,Hidden City,Comedy,Late Night,3D,1,260.91,67.2,224.0,Sunday,Weekend,260.91,484.91
+C00242,2025-01-18,Hidden City,Sci-Fi,Late Night,Standard 2D,6,432.37,68.9,319.03,Saturday,Weekend,2594.2200000000003,2913.25
+C00243,2026-01-24,Galaxy Quest,Animation,Matinee,IMAX,6,341.55,69.7,172.93,Saturday,Weekend,2049.3,2222.23
+C00244,2025-09-10,Hidden City,Animation,Evening,IMAX,5,303.03,23.0,646.79,Wednesday,Weekday,1515.1499999999999,2161.9399999999996
+C00245,2025-12-30,Ocean Planet,Sci-Fi,Late Night,3D,7,296.53,22.2,83.12,Tuesday,Weekday,2075.71,2158.83
+C00246,2026-01-09,Laugh Out Loud,Drama,Matinee,IMAX,6,383.99,91.6,666.37,Friday,Weekday,2303.94,2970.31
+C00247,2026-01-30,The Last Journey,Comedy,Late Night,Standard 2D,7,247.09,75.6,569.56,Friday,Weekday,1729.63,2299.19
+C00248,2026-08-03,Galaxy Quest,Animation,Evening,3D,2,178.36,29.1,498.1,Monday,Weekday,356.72,854.82
+C00249,2026-07-29,Ocean Planet,Drama,Matinee,IMAX,1,353.11,26.0,541.8,Wednesday,Weekday,353.11,894.91
+C00250,2026-10-12,Laugh Out Loud,Sci-Fi,Late Night,3D,3,248.7,32.9,237.54,Monday,Weekday,746.0999999999999,983.6399999999999
+C00251,2026-02-13,The Last Journey,Sci-Fi,Late Night,IMAX,6,247.68,84.6,207.12,Friday,Weekday,1486.08,1693.1999999999998
+C00252,2025-07-10,Robot Reborn,Comedy,Matinee,IMAX,7,286.41,77.8,266.99,Thursday,Weekday,2004.8700000000001,2271.86
+C00253,2025-05-12,Laugh Out Loud,Animation,Late Night,IMAX,1,222.82,71.1,127.13,Monday,Weekday,222.82,349.95
+C00254,2026-07-23,Hidden City,Comedy,Late Night,Standard 2D,6,426.51,71.3,522.45,Thursday,Weekday,2559.06,3081.51
+C00255,2026-09-04,The Last Journey,Animation,Evening,3D,4,404.09,88.7,332.53,Friday,Weekday,1616.36,1948.8899999999999
+C00256,2025-01-25,The Last Journey,Sci-Fi,Evening,3D,6,447.33,46.7,620.07,Saturday,Weekend,2683.98,3304.05
+C00257,2025-05-25,Galaxy Quest,Action,Matinee,3D,5,439.36,45.8,614.87,Sunday,Weekend,2196.8,2811.67
+C00258,2026-03-31,Hidden City,Animation,Evening,IMAX,1,244.34,54.0,109.1,Tuesday,Weekday,244.34,353.44
+C00259,2025-04-21,Galaxy Quest,Sci-Fi,Late Night,Standard 2D,4,264.18,99.2,153.17,Monday,Weekday,1056.72,1209.89
+C00260,2025-02-03,The Last Journey,Drama,Late Night,Standard 2D,1,359.48,64.4,287.45,Monday,Weekday,359.48,646.9300000000001
+C00261,2026-10-30,Robot Reborn,Sci-Fi,Evening,Standard 2D,3,154.75,63.8,83.17,Friday,Weekday,464.25,547.42
+C00262,2025-03-06,Hidden City,Comedy,Matinee,IMAX,6,448.17,84.8,482.6,Thursday,Weekday,2689.02,3171.62
+C00263,2025-05-23,Galaxy Quest,Animation,Late Night,IMAX,5,153.25,34.2,516.32,Friday,Weekday,766.25,1282.5700000000002
+C00264,2026-10-24,Laugh Out Loud,Drama,Late Night,Standard 2D,5,309.45,52.4,504.95,Saturday,Weekend,1547.25,2052.2
+C00265,2025-03-08,Hidden City,Drama,Matinee,IMAX,5,350.61,71.3,329.15,Saturday,Weekend,1753.0500000000002,2082.2000000000003
+C00266,2026-06-20,Ocean Planet,Action,Late Night,Standard 2D,1,424.24,99.0,590.25,Saturday,Weekend,424.24,1014.49
+C00267,2026-01-11,Galaxy Quest,Sci-Fi,Matinee,3D,5,343.24,32.4,424.09,Sunday,Weekend,1716.2,2140.29
+C00268,2025-12-28,Ocean Planet,Animation,Late Night,Standard 2D,4,329.09,56.2,695.53,Sunday,Weekend,1316.36,2011.8899999999999
+C00269,2026-07-08,Ocean Planet,Sci-Fi,Late Night,IMAX,4,240.11,92.4,570.81,Wednesday,Weekday,960.44,1531.25
+C00270,2025-01-15,Laugh Out Loud,Drama,Evening,IMAX,2,327.28,78.0,505.58,Wednesday,Weekday,654.56,1160.1399999999999
+C00271,2025-02-10,Galaxy Quest,Animation,Evening,3D,5,374.91,69.1,86.31,Monday,Weekday,1874.5500000000002,1960.8600000000001
+C00272,2025-05-11,Galaxy Quest,Drama,Matinee,IMAX,5,304.68,40.6,582.82,Sunday,Weekend,1523.4,2106.2200000000003
+C00273,2025-11-24,Ocean Planet,Sci-Fi,Matinee,IMAX,3,383.89,35.0,213.9,Monday,Weekday,1151.67,1365.5700000000002
+C00274,2026-10-06,Laugh Out Loud,Comedy,Matinee,Standard 2D,1,170.88,49.9,293.24,Tuesday,Weekday,170.88,464.12
+C00275,2025-02-15,Robot Reborn,Animation,Late Night,3D,1,250.61,40.4,323.93,Saturday,Weekend,250.61,574.54
+C00276,2025-10-09,Ocean Planet,Animation,Evening,Standard 2D,3,437.94,84.7,231.92,Thursday,Weekday,1313.82,1545.74
+C00277,2025-10-14,Galaxy Quest,Drama,Matinee,IMAX,4,247.03,77.7,75.91,Tuesday,Weekday,988.12,1064.03
+C00278,2025-05-12,Galaxy Quest,Action,Evening,3D,7,336.56,86.8,139.55,Monday,Weekday,2355.92,2495.4700000000003
+C00279,2025-08-19,Robot Reborn,Action,Late Night,IMAX,6,305.97,33.7,0.0,Tuesday,Weekday,1835.8200000000002,1835.8200000000002
+C00280,2025-05-15,The Last Journey,Sci-Fi,Evening,3D,4,430.99,44.8,456.59,Thursday,Weekday,1723.96,2180.55
+C00281,2025-04-02,Ocean Planet,Drama,Late Night,3D,3,198.83,81.5,659.99,Wednesday,Weekday,596.49,1256.48
+C00282,2025-12-15,Hidden City,Action,Matinee,Standard 2D,2,239.82,33.1,574.75,Monday,Weekday,479.64,1054.3899999999999
+C00283,2026-09-15,The Last Journey,Animation,Matinee,IMAX,1,408.71,31.6,281.55,Tuesday,Weekday,408.71,690.26
+C00284,2025-09-28,Ocean Planet,Sci-Fi,Evening,Standard 2D,1,349.86,50.6,550.34,Sunday,Weekend,349.86,900.2
+C00285,2026-03-01,The Last Journey,Action,Evening,3D,7,312.91,34.9,403.5,Sunday,Weekend,2190.3700000000003,2593.8700000000003
+C00286,2026-03-25,Galaxy Quest,Sci-Fi,Late Night,3D,1,268.47,26.3,200.41,Wednesday,Weekday,268.47,468.88
+C00287,2026-07-19,Robot Reborn,Sci-Fi,Late Night,IMAX,7,273.39,45.0,682.56,Sunday,Weekend,1913.73,2596.29
+C00288,2026-07-06,Robot Reborn,Animation,Matinee,3D,5,430.48,90.0,649.94,Monday,Weekday,2152.4,2802.34
+C00289,2026-08-30,Robot Reborn,Animation,Late Night,Standard 2D,5,351.32,24.5,78.54,Sunday,Weekend,1756.6,1835.1399999999999
+C00290,2026-06-29,The Last Journey,Animation,Matinee,Standard 2D,7,428.73,65.3,587.6,Monday,Weekday,3001.11,3588.71
+C00291,2026-09-15,Hidden City,Animation,Evening,Standard 2D,6,441.66,65.0,54.38,Tuesday,Weekday,2649.96,2704.34
+C00292,2026-10-09,Galaxy Quest,Sci-Fi,Late Night,3D,2,314.1,62.5,650.17,Friday,Weekday,628.2,1278.37
+C00293,2026-05-16,Laugh Out Loud,Sci-Fi,Late Night,IMAX,7,332.97,60.4,436.92,Saturday,Weekend,2330.79,2767.71
+C00294,2025-11-26,Ocean Planet,Comedy,Matinee,IMAX,2,346.91,21.4,0.0,Wednesday,Weekday,693.82,693.82
+C00295,2025-07-25,The Last Journey,Sci-Fi,Evening,IMAX,4,401.75,23.8,572.08,Friday,Weekday,1607.0,2179.08
+C00296,2026-01-18,Laugh Out Loud,Animation,Late Night,IMAX,5,347.72,60.9,361.05,Sunday,Weekend,1738.6000000000001,2099.65
+C00297,2026-07-09,Galaxy Quest,Action,Matinee,IMAX,2,184.39,97.5,41.68,Thursday,Weekday,368.78,410.46
+C00298,2026-05-20,Galaxy Quest,Action,Late Night,IMAX,5,432.73,52.6,558.9,Wednesday,Weekday,2163.65,2722.55
+C00299,2025-12-15,Hidden City,Comedy,Evening,Standard 2D,5,348.28,57.8,551.84,Monday,Weekday,1741.3999999999999,2293.24
+C00300,2025-02-20,Robot Reborn,Drama,Matinee,Standard 2D,7,410.98,98.6,337.44,Thursday,Weekday,2876.86,3214.3
+C00301,2025-07-01,Laugh Out Loud,Comedy,Matinee,Standard 2D,7,277.42,82.3,511.78,Tuesday,Weekday,1941.94,2453.7200000000003
+C00302,2026-01-22,Laugh Out Loud,Drama,Late Night,Standard 2D,3,292.41,81.6,28.1,Thursday,Weekday,877.23,905.33
+C00303,2025-09-16,Laugh Out Loud,Sci-Fi,Evening,3D,5,356.66,60.4,222.67,Tuesday,Weekday,1783.3000000000002,2005.9700000000003
+C00304,2025-11-02,Ocean Planet,Animation,Late Night,3D,6,382.92,91.8,471.26,Sunday,Weekend,2297.52,2768.7799999999997
+C00305,2025-07-21,Galaxy Quest,Drama,Evening,IMAX,1,173.54,66.5,161.42,Monday,Weekday,173.54,334.96
+C00306,2025-02-20,The Last Journey,Sci-Fi,Evening,3D,5,272.2,72.5,315.29,Thursday,Weekday,1361.0,1676.29
+C00307,2025-11-08,The Last Journey,Action,Late Night,IMAX,7,380.96,83.0,652.36,Saturday,Weekend,2666.72,3319.08
+C00308,2025-10-25,Hidden City,Sci-Fi,Late Night,3D,1,447.67,52.5,578.73,Saturday,Weekend,447.67,1026.4
+C00309,2026-06-07,Hidden City,Sci-Fi,Matinee,IMAX,6,153.49,96.3,390.6,Sunday,Weekend,920.94,1311.54
+C00310,2025-03-17,Hidden City,Sci-Fi,Late Night,IMAX,1,229.44,99.0,403.7,Monday,Weekday,229.44,633.14
+C00311,2025-11-21,Galaxy Quest,Comedy,Matinee,3D,3,289.45,67.0,620.9,Friday,Weekday,868.3499999999999,1489.25
+C00312,2026-07-26,Galaxy Quest,Action,Late Night,IMAX,6,216.88,37.8,604.14,Sunday,Weekend,1301.28,1905.42
+C00313,2025-06-29,Laugh Out Loud,Animation,Matinee,IMAX,7,158.08,82.0,61.81,Sunday,Weekend,1106.5600000000002,1168.3700000000001
+C00314,2025-07-31,The Last Journey,Action,Evening,Standard 2D,6,311.86,45.8,325.9,Thursday,Weekday,1871.16,2197.06
+C00315,2025-02-28,The Last Journey,Comedy,Matinee,Standard 2D,6,344.82,66.2,133.6,Friday,Weekday,2068.92,2202.52
+C00316,2026-01-20,The Last Journey,Action,Late Night,Standard 2D,2,274.82,26.9,58.25,Tuesday,Weekday,549.64,607.89
+C00317,2026-07-27,Hidden City,Animation,Late Night,IMAX,6,260.96,84.6,204.68,Monday,Weekday,1565.7599999999998,1770.4399999999998
+C00318,2025-11-19,Laugh Out Loud,Comedy,Late Night,3D,5,445.68,96.7,427.45,Wednesday,Weekday,2228.4,2655.85
+C00319,2025-10-07,Laugh Out Loud,Comedy,Evening,3D,7,293.26,27.5,0.0,Tuesday,Weekday,2052.8199999999997,2052.8199999999997
+C00320,2026-05-17,The Last Journey,Drama,Late Night,Standard 2D,5,389.42,78.5,638.73,Sunday,Weekend,1947.1000000000001,2585.83
+C00321,2025-10-23,Ocean Planet,Sci-Fi,Matinee,3D,1,236.15,88.9,296.07,Thursday,Weekday,236.15,532.22
+C00322,2025-09-24,Robot Reborn,Drama,Evening,3D,4,399.06,28.8,295.63,Wednesday,Weekday,1596.24,1891.87
+C00323,2026-05-26,Hidden City,Sci-Fi,Late Night,3D,6,397.11,39.7,107.28,Tuesday,Weekday,2382.66,2489.94
+C00324,2025-07-10,The Last Journey,Animation,Evening,Standard 2D,6,230.31,51.3,136.39,Thursday,Weekday,1381.8600000000001,1518.25
+C00325,2026-07-23,Galaxy Quest,Drama,Matinee,IMAX,3,346.76,86.9,71.75,Thursday,Weekday,1040.28,1112.03
+C00326,2025-06-29,The Last Journey,Sci-Fi,Evening,3D,2,354.6,59.5,683.13,Sunday,Weekend,709.2,1392.33
+C00327,2025-12-08,Hidden City,Drama,Evening,Standard 2D,7,282.78,31.0,0.0,Monday,Weekday,1979.4599999999998,1979.4599999999998
+C00328,2025-06-17,Galaxy Quest,Animation,Late Night,Standard 2D,6,382.13,40.5,529.65,Tuesday,Weekday,2292.7799999999997,2822.43
+C00329,2026-02-28,Ocean Planet,Animation,Late Night,Standard 2D,7,242.07,57.4,222.44,Saturday,Weekend,1694.49,1916.93
+C00330,2025-10-18,Laugh Out Loud,Drama,Evening,Standard 2D,5,295.28,23.1,376.0,Saturday,Weekend,1476.3999999999999,1852.3999999999999
+C00331,2025-06-09,Hidden City,Drama,Late Night,IMAX,6,447.05,70.5,610.9,Monday,Weekday,2682.3,3293.2000000000003
+C00332,2026-05-13,Laugh Out Loud,Action,Matinee,IMAX,3,203.6,22.0,655.32,Wednesday,Weekday,610.8,1266.12
+C00333,2026-09-18,Hidden City,Sci-Fi,Matinee,IMAX,6,194.33,82.5,168.16,Friday,Weekday,1165.98,1334.14
+C00334,2025-01-19,Galaxy Quest,Animation,Evening,Standard 2D,4,192.66,78.7,637.89,Sunday,Weekend,770.64,1408.53
+C00335,2026-01-15,Robot Reborn,Action,Late Night,3D,6,449.43,89.2,176.44,Thursday,Weekday,2696.58,2873.02
+C00336,2026-04-26,The Last Journey,Animation,Late Night,Standard 2D,2,197.97,32.6,563.36,Sunday,Weekend,395.94,959.3
+C00337,2026-04-27,Laugh Out Loud,Sci-Fi,Evening,Standard 2D,3,207.07,68.2,10.68,Monday,Weekday,621.21,631.89
+C00338,2025-05-28,Galaxy Quest,Comedy,Matinee,3D,2,358.44,82.5,374.66,Wednesday,Weekday,716.88,1091.54
+C00339,2025-03-18,Robot Reborn,Drama,Late Night,3D,3,377.85,61.3,0.0,Tuesday,Weekday,1133.5500000000002,1133.5500000000002
+C00340,2025-12-10,Laugh Out Loud,Sci-Fi,Evening,IMAX,6,308.12,30.5,587.26,Wednesday,Weekday,1848.72,2435.98
+C00341,2026-03-03,Galaxy Quest,Comedy,Matinee,Standard 2D,1,444.8,27.9,588.79,Tuesday,Weekday,444.8,1033.59
+C00342,2025-07-13,Hidden City,Animation,Evening,IMAX,6,161.67,68.5,209.21,Sunday,Weekend,970.02,1179.23
+C00343,2025-09-04,Laugh Out Loud,Comedy,Late Night,Standard 2D,6,336.25,59.8,597.2,Thursday,Weekday,2017.5,2614.7
+C00344,2025-12-22,Hidden City,Action,Matinee,Standard 2D,5,331.94,94.4,226.55,Monday,Weekday,1659.7,1886.25
+C00345,2025-10-29,Laugh Out Loud,Drama,Evening,Standard 2D,5,246.37,86.7,163.64,Wednesday,Weekday,1231.85,1395.4899999999998
+C00346,2025-11-20,Robot Reborn,Drama,Matinee,Standard 2D,1,419.83,77.9,1.03,Thursday,Weekday,419.83,420.85999999999996
+C00347,2026-04-02,Hidden City,Comedy,Late Night,3D,5,315.86,98.6,165.0,Thursday,Weekday,1579.3000000000002,1744.3000000000002
+C00348,2026-10-21,The Last Journey,Drama,Matinee,Standard 2D,2,223.9,75.6,82.91,Wednesday,Weekday,447.8,530.71
+C00349,2026-06-17,Ocean Planet,Animation,Late Night,Standard 2D,2,176.51,27.4,472.46,Wednesday,Weekday,353.02,825.48
+C00350,2025-01-06,Hidden City,Drama,Late Night,3D,7,182.14,26.2,101.35,Monday,Weekday,1274.98,1376.33
+C00351,2025-08-22,Laugh Out Loud,Sci-Fi,Late Night,Standard 2D,5,419.2,85.3,409.77,Friday,Weekday,2096.0,2505.77
+C00352,2025-01-07,The Last Journey,Drama,Evening,IMAX,7,225.09,48.9,88.53,Tuesday,Weekday,1575.63,1664.16
+C00353,2026-08-08,The Last Journey,Animation,Late Night,Standard 2D,4,422.1,93.9,493.09,Saturday,Weekend,1688.4,2181.4900000000002
+C00354,2026-03-08,The Last Journey,Animation,Matinee,IMAX,3,186.04,29.5,199.88,Sunday,Weekend,558.12,758.0
+C00355,2025-05-27,Hidden City,Sci-Fi,Matinee,3D,7,445.18,35.9,216.09,Tuesday,Weekday,3116.26,3332.3500000000004
+C00356,2026-07-16,Robot Reborn,Sci-Fi,Matinee,IMAX,5,400.0,81.9,448.27,Thursday,Weekday,2000.0,2448.27
+C00357,2026-01-12,The Last Journey,Sci-Fi,Matinee,Standard 2D,7,184.87,87.8,657.26,Monday,Weekday,1294.0900000000001,1951.3500000000001
+C00358,2025-02-04,Laugh Out Loud,Comedy,Evening,Standard 2D,1,175.82,89.4,694.12,Tuesday,Weekday,175.82,869.94
+C00359,2025-04-12,Hidden City,Comedy,Evening,Standard 2D,4,391.03,27.9,250.08,Saturday,Weekend,1564.12,1814.1999999999998
+C00360,2026-06-26,The Last Journey,Action,Late Night,Standard 2D,6,173.42,50.5,662.43,Friday,Weekday,1040.52,1702.9499999999998
+C00361,2025-07-13,Laugh Out Loud,Animation,Matinee,3D,6,228.65,71.7,428.63,Sunday,Weekend,1371.9,1800.5300000000002
+C00362,2025-12-17,Galaxy Quest,Animation,Evening,3D,6,390.37,93.5,634.53,Wednesday,Weekday,2342.2200000000003,2976.75
+C00363,2026-08-23,Robot Reborn,Comedy,Late Night,IMAX,2,422.27,39.1,19.5,Sunday,Weekend,844.54,864.04
+C00364,2025-07-13,Galaxy Quest,Animation,Matinee,IMAX,4,380.3,68.0,23.22,Sunday,Weekend,1521.2,1544.42
+C00365,2025-01-08,Robot Reborn,Comedy,Late Night,IMAX,1,416.97,31.5,52.2,Wednesday,Weekday,416.97,469.17
+C00366,2025-02-26,The Last Journey,Action,Evening,3D,6,317.97,79.8,563.08,Wednesday,Weekday,1907.8200000000002,2470.9
+C00367,2026-09-05,The Last Journey,Animation,Evening,3D,5,383.88,30.2,96.57,Saturday,Weekend,1919.4,2015.97
+C00368,2026-02-06,The Last Journey,Comedy,Matinee,IMAX,2,253.26,100.0,123.61,Friday,Weekday,506.52,630.13
+C00369,2025-08-08,Ocean Planet,Animation,Matinee,IMAX,6,385.56,27.4,409.78,Friday,Weekday,2313.36,2723.1400000000003
+C00370,2025-02-22,Robot Reborn,Drama,Late Night,3D,6,353.92,74.8,670.21,Saturday,Weekend,2123.52,2793.73
+C00371,2026-04-11,Robot Reborn,Comedy,Late Night,IMAX,1,322.45,82.2,396.98,Saturday,Weekend,322.45,719.4300000000001
+C00372,2025-01-27,Robot Reborn,Sci-Fi,Evening,Standard 2D,1,447.69,40.6,512.82,Monday,Weekday,447.69,960.51
+C00373,2025-03-03,Galaxy Quest,Action,Evening,IMAX,2,290.93,40.4,131.41,Monday,Weekday,581.86,713.27
+C00374,2026-02-02,The Last Journey,Animation,Evening,IMAX,1,335.77,67.7,639.92,Monday,Weekday,335.77,975.6899999999999
+C00375,2026-03-06,Galaxy Quest,Sci-Fi,Evening,3D,4,302.97,70.4,39.11,Friday,Weekday,1211.88,1250.99
+C00376,2026-01-17,Ocean Planet,Action,Late Night,3D,7,228.15,77.6,197.97,Saturday,Weekend,1597.05,1795.02
+C00377,2026-09-01,Galaxy Quest,Sci-Fi,Evening,Standard 2D,1,249.11,66.4,317.61,Tuesday,Weekday,249.11,566.72
+C00378,2025-06-30,The Last Journey,Animation,Matinee,3D,5,443.64,34.0,158.32,Monday,Weekday,2218.2,2376.52
+C00379,2026-01-07,The Last Journey,Drama,Matinee,Standard 2D,3,267.63,93.9,464.63,Wednesday,Weekday,802.89,1267.52
+C00380,2025-07-24,The Last Journey,Sci-Fi,Late Night,IMAX,6,353.82,33.3,475.15,Thursday,Weekday,2122.92,2598.07
+C00381,2025-08-31,Ocean Planet,Sci-Fi,Late Night,Standard 2D,4,320.13,65.2,148.3,Sunday,Weekend,1280.52,1428.82
+C00382,2025-04-11,Galaxy Quest,Action,Matinee,Standard 2D,5,416.94,93.6,6.01,Friday,Weekday,2084.7,2090.71
+C00383,2026-06-15,Robot Reborn,Comedy,Matinee,3D,7,377.31,93.0,52.02,Monday,Weekday,2641.17,2693.19
+C00384,2026-04-16,The Last Journey,Comedy,Matinee,IMAX,1,174.2,33.4,0.3,Thursday,Weekday,174.2,174.5
+C00385,2026-04-22,Hidden City,Drama,Evening,IMAX,3,256.63,39.1,633.78,Wednesday,Weekday,769.89,1403.67
+C00386,2025-04-06,Hidden City,Drama,Evening,3D,2,363.57,68.1,435.17,Sunday,Weekend,727.14,1162.31
+C00387,2025-03-20,Laugh Out Loud,Sci-Fi,Matinee,Standard 2D,2,198.41,47.0,96.9,Thursday,Weekday,396.82,493.72
+C00388,2026-06-08,Laugh Out Loud,Sci-Fi,Matinee,IMAX,5,301.03,78.5,64.76,Monday,Weekday,1505.1499999999999,1569.9099999999999
+C00389,2026-03-22,Laugh Out Loud,Drama,Matinee,3D,1,245.33,61.8,572.32,Sunday,Weekend,245.33,817.6500000000001
+C00390,2025-01-20,The Last Journey,Action,Evening,3D,3,169.43,41.3,567.73,Monday,Weekday,508.29,1076.02
+C00391,2026-03-21,Robot Reborn,Sci-Fi,Matinee,IMAX,1,449.14,52.9,649.17,Saturday,Weekend,449.14,1098.31
+C00392,2026-10-18,Hidden City,Action,Evening,3D,5,428.81,75.3,111.49,Sunday,Weekend,2144.05,2255.54
+C00393,2026-05-19,Hidden City,Action,Matinee,3D,6,374.26,82.8,365.59,Tuesday,Weekday,2245.56,2611.15
+C00394,2025-07-05,Galaxy Quest,Drama,Late Night,IMAX,4,210.31,49.6,85.03,Saturday,Weekend,841.24,926.27
+C00395,2025-07-31,Galaxy Quest,Animation,Late Night,Standard 2D,4,446.56,28.4,556.95,Thursday,Weekday,1786.24,2343.19
+C00396,2026-05-19,Laugh Out Loud,Sci-Fi,Evening,IMAX,4,339.24,48.3,288.74,Tuesday,Weekday,1356.96,1645.7
+C00397,2025-09-26,Ocean Planet,Drama,Late Night,IMAX,2,439.82,70.4,487.08,Friday,Weekday,879.64,1366.72
+C00398,2026-05-08,Hidden City,Comedy,Evening,3D,3,162.77,80.8,21.22,Friday,Weekday,488.31000000000006,509.5300000000001
+C00399,2026-10-05,Laugh Out Loud,Animation,Matinee,3D,7,202.04,90.4,544.55,Monday,Weekday,1414.28,1958.83
+C00400,2025-09-29,Ocean Planet,Sci-Fi,Matinee,Standard 2D,1,353.17,97.0,160.64,Monday,Weekday,353.17,513.81
+C00401,2026-01-19,Laugh Out Loud,Sci-Fi,Matinee,Standard 2D,6,422.15,62.3,589.96,Monday,Weekday,2532.8999999999996,3122.8599999999997
+C00402,2025-11-24,Ocean Planet,Action,Late Night,IMAX,2,202.73,90.4,130.1,Monday,Weekday,405.46,535.56
+C00403,2025-12-07,The Last Journey,Drama,Late Night,3D,1,245.13,41.0,553.07,Sunday,Weekend,245.13,798.2
+C00404,2025-02-20,Ocean Planet,Action,Evening,IMAX,2,326.45,64.8,93.87,Thursday,Weekday,652.9,746.77
+C00405,2026-10-23,Galaxy Quest,Animation,Matinee,Standard 2D,2,449.9,63.2,464.39,Friday,Weekday,899.8,1364.19
+C00406,2025-12-28,Galaxy Quest,Drama,Matinee,Standard 2D,3,389.9,81.5,545.48,Sunday,Weekend,1169.6999999999998,1715.1799999999998
+C00407,2025-06-03,Galaxy Quest,Comedy,Evening,IMAX,6,427.07,81.8,270.36,Tuesday,Weekday,2562.42,2832.78
+C00408,2026-01-19,Ocean Planet,Comedy,Matinee,3D,7,352.5,42.8,171.03,Monday,Weekday,2467.5,2638.53
+C00409,2025-09-24,Laugh Out Loud,Comedy,Matinee,Standard 2D,5,413.21,90.9,241.17,Wednesday,Weekday,2066.0499999999997,2307.22
+C00410,2026-07-04,Ocean Planet,Action,Matinee,Standard 2D,2,302.11,91.3,207.61,Saturday,Weekend,604.22,811.83
+C00411,2026-05-24,The Last Journey,Animation,Evening,IMAX,7,187.25,95.9,443.15,Sunday,Weekend,1310.75,1753.9
+C00412,2025-09-13,Ocean Planet,Drama,Matinee,Standard 2D,6,362.87,56.6,31.19,Saturday,Weekend,2177.2200000000003,2208.4100000000003
+C00413,2026-04-23,The Last Journey,Animation,Late Night,Standard 2D,1,330.44,99.0,29.01,Thursday,Weekday,330.44,359.45
+C00414,2025-01-23,Hidden City,Sci-Fi,Evening,Standard 2D,3,295.61,82.8,201.44,Thursday,Weekday,886.83,1088.27
+C00415,2026-10-09,Laugh Out Loud,Sci-Fi,Matinee,IMAX,6,232.5,72.3,193.88,Friday,Weekday,1395.0,1588.88
+C00416,2025-12-08,The Last Journey,Sci-Fi,Matinee,3D,1,385.26,54.6,123.95,Monday,Weekday,385.26,509.21
+C00417,2026-03-14,The Last Journey,Animation,Late Night,Standard 2D,1,396.12,87.4,501.77,Saturday,Weekend,396.12,897.89
+C00418,2026-03-08,Robot Reborn,Drama,Evening,IMAX,5,259.26,81.1,16.63,Sunday,Weekend,1296.3,1312.93
+C00419,2025-07-29,The Last Journey,Drama,Late Night,IMAX,3,428.33,66.8,646.96,Tuesday,Weekday,1284.99,1931.95
+C00420,2026-04-07,Laugh Out Loud,Sci-Fi,Late Night,IMAX,4,260.92,99.8,530.24,Tuesday,Weekday,1043.68,1573.92
+C00421,2025-09-24,Robot Reborn,Drama,Late Night,Standard 2D,6,182.27,40.0,282.07,Wednesday,Weekday,1093.6200000000001,1375.69
+C00422,2026-04-01,Robot Reborn,Animation,Late Night,Standard 2D,4,199.96,71.3,601.25,Wednesday,Weekday,799.84,1401.0900000000001
+C00423,2025-03-02,The Last Journey,Action,Late Night,IMAX,5,298.35,45.7,432.71,Sunday,Weekend,1491.75,1924.46
+C00424,2025-04-08,Laugh Out Loud,Animation,Late Night,IMAX,1,173.96,56.6,399.16,Tuesday,Weekday,173.96,573.12
+C00425,2026-09-10,Laugh Out Loud,Drama,Late Night,IMAX,1,365.52,47.1,219.11,Thursday,Weekday,365.52,584.63
+C00426,2026-05-08,Laugh Out Loud,Action,Matinee,3D,2,388.53,46.8,464.17,Friday,Weekday,777.06,1241.23
+C00427,2025-03-28,Hidden City,Sci-Fi,Evening,3D,2,314.84,50.1,97.79,Friday,Weekday,629.68,727.4699999999999
+C00428,2025-05-23,Ocean Planet,Drama,Late Night,Standard 2D,3,418.0,24.5,367.43,Friday,Weekday,1254.0,1621.43
+C00429,2026-01-01,The Last Journey,Drama,Late Night,Standard 2D,6,436.29,23.2,81.28,Thursday,Weekday,2617.7400000000002,2699.0200000000004
+C00430,2025-01-04,Ocean Planet,Comedy,Matinee,Standard 2D,2,284.27,78.0,311.6,Saturday,Weekend,568.54,880.14
+C00431,2025-09-26,Hidden City,Comedy,Matinee,3D,1,176.74,44.9,431.39,Friday,Weekday,176.74,608.13
+C00432,2025-08-07,The Last Journey,Action,Matinee,3D,2,219.38,21.7,108.85,Thursday,Weekday,438.76,547.61
+C00433,2025-03-31,The Last Journey,Action,Late Night,3D,3,347.28,26.5,155.48,Monday,Weekday,1041.84,1197.32
+C00434,2025-07-20,Ocean Planet,Comedy,Evening,3D,2,271.74,35.7,569.28,Sunday,Weekend,543.48,1112.76
+C00435,2025-07-16,The Last Journey,Drama,Evening,3D,2,355.5,23.9,179.0,Wednesday,Weekday,711.0,890.0
+C00436,2025-02-14,The Last Journey,Comedy,Matinee,IMAX,5,350.02,95.7,66.89,Friday,Weekday,1750.1,1816.99
+C00437,2026-02-28,Robot Reborn,Sci-Fi,Matinee,3D,1,331.61,65.5,231.48,Saturday,Weekend,331.61,563.09
+C00438,2025-07-02,Laugh Out Loud,Sci-Fi,Late Night,IMAX,2,197.35,51.5,0.0,Wednesday,Weekday,394.7,394.7
+C00439,2025-01-21,Robot Reborn,Action,Matinee,IMAX,6,235.77,62.6,485.65,Tuesday,Weekday,1414.6200000000001,1900.27
+C00440,2025-01-15,The Last Journey,Animation,Matinee,3D,1,263.36,29.0,402.8,Wednesday,Weekday,263.36,666.1600000000001
+C00441,2026-10-09,Robot Reborn,Sci-Fi,Matinee,IMAX,1,397.33,76.1,588.29,Friday,Weekday,397.33,985.6199999999999
+C00442,2025-03-21,The Last Journey,Action,Matinee,Standard 2D,1,354.67,97.6,462.13,Friday,Weekday,354.67,816.8
+C00443,2026-09-01,Hidden City,Sci-Fi,Evening,3D,4,343.48,30.5,567.8,Tuesday,Weekday,1373.92,1941.72
+C00444,2025-04-22,Ocean Planet,Animation,Late Night,Standard 2D,5,351.64,32.2,460.01,Tuesday,Weekday,1758.1999999999998,2218.21
+C00445,2025-02-26,Robot Reborn,Comedy,Matinee,Standard 2D,5,300.96,70.3,604.98,Wednesday,Weekday,1504.8,2109.7799999999997
+C00446,2025-12-31,Galaxy Quest,Animation,Evening,Standard 2D,5,161.89,32.2,436.81,Wednesday,Weekday,809.4499999999999,1246.26
+C00447,2026-08-04,Hidden City,Animation,Matinee,Standard 2D,1,210.34,30.1,185.41,Tuesday,Weekday,210.34,395.75
+C00448,2025-02-17,Laugh Out Loud,Animation,Evening,3D,3,192.09,73.6,28.78,Monday,Weekday,576.27,605.05
+C00449,2025-08-08,Robot Reborn,Animation,Matinee,IMAX,5,169.2,69.5,73.72,Friday,Weekday,846.0,919.72
+C00450,2026-05-19,Galaxy Quest,Action,Evening,IMAX,5,245.84,37.4,358.71,Tuesday,Weekday,1229.2,1587.91
+C00451,2025-02-15,Laugh Out Loud,Action,Evening,IMAX,3,386.32,85.9,680.24,Saturday,Weekend,1158.96,1839.2
+C00452,2025-04-24,Hidden City,Sci-Fi,Evening,Standard 2D,6,184.54,28.4,531.62,Thursday,Weekday,1107.24,1638.8600000000001
+C00453,2025-07-24,Hidden City,Sci-Fi,Matinee,3D,6,183.43,46.6,542.81,Thursday,Weekday,1100.58,1643.3899999999999
+C00454,2026-06-24,Hidden City,Comedy,Matinee,3D,6,187.28,79.1,464.65,Wednesday,Weekday,1123.68,1588.33
+C00455,2026-06-26,The Last Journey,Drama,Matinee,Standard 2D,6,230.95,69.1,632.44,Friday,Weekday,1385.6999999999998,2018.1399999999999
+C00456,2026-04-20,Ocean Planet,Animation,Late Night,Standard 2D,7,210.66,68.0,514.82,Monday,Weekday,1474.62,1989.44
+C00457,2026-03-22,Laugh Out Loud,Comedy,Matinee,3D,6,154.19,74.9,180.85,Sunday,Weekend,925.14,1105.99
+C00458,2025-01-18,Robot Reborn,Sci-Fi,Evening,IMAX,5,232.95,71.7,349.64,Saturday,Weekend,1164.75,1514.3899999999999
+C00459,2025-06-09,Laugh Out Loud,Sci-Fi,Evening,3D,3,448.89,89.9,283.04,Monday,Weekday,1346.67,1629.71
+C00460,2026-09-09,Hidden City,Animation,Evening,3D,3,250.95,65.5,115.77,Wednesday,Weekday,752.8499999999999,868.6199999999999
+C00461,2026-04-27,The Last Journey,Sci-Fi,Matinee,IMAX,6,213.38,52.1,155.66,Monday,Weekday,1280.28,1435.94
+C00462,2025-06-11,Hidden City,Sci-Fi,Evening,3D,3,298.71,81.3,199.61,Wednesday,Weekday,896.1299999999999,1095.7399999999998
+C00463,2026-04-19,Hidden City,Animation,Late Night,IMAX,5,218.81,40.7,121.55,Sunday,Weekend,1094.05,1215.6
+C00464,2026-04-30,Robot Reborn,Action,Late Night,IMAX,4,317.89,80.8,152.12,Thursday,Weekday,1271.56,1423.6799999999998
+C00465,2026-05-12,Laugh Out Loud,Sci-Fi,Matinee,Standard 2D,3,270.2,42.4,641.48,Tuesday,Weekday,810.5999999999999,1452.08
+C00466,2026-10-18,Robot Reborn,Comedy,Evening,3D,4,419.05,58.4,240.27,Sunday,Weekend,1676.2,1916.47
+C00467,2025-12-28,The Last Journey,Sci-Fi,Matinee,3D,1,428.38,79.1,579.26,Sunday,Weekend,428.38,1007.64
+C00468,2025-02-10,The Last Journey,Drama,Late Night,Standard 2D,5,363.92,70.2,45.07,Monday,Weekday,1819.6000000000001,1864.67
+C00469,2026-07-02,Galaxy Quest,Comedy,Evening,Standard 2D,1,214.71,26.9,687.27,Thursday,Weekday,214.71,901.98
+C00470,2025-01-11,Robot Reborn,Drama,Late Night,3D,1,292.17,55.7,535.35,Saturday,Weekend,292.17,827.52
+C00471,2026-03-06,Robot Reborn,Action,Late Night,3D,2,241.63,84.9,634.7,Friday,Weekday,483.26,1117.96
+C00472,2026-06-17,Ocean Planet,Comedy,Matinee,3D,4,389.48,99.7,368.14,Wednesday,Weekday,1557.92,1926.06
+C00473,2025-03-25,Laugh Out Loud,Action,Evening,IMAX,3,158.75,57.3,444.18,Tuesday,Weekday,476.25,920.4300000000001
+C00474,2026-06-18,Hidden City,Action,Evening,IMAX,7,348.75,26.9,0.0,Thursday,Weekday,2441.25,2441.25
+C00475,2026-06-27,Galaxy Quest,Comedy,Matinee,Standard 2D,7,246.97,49.3,302.42,Saturday,Weekend,1728.79,2031.21
+C00476,2026-03-14,Galaxy Quest,Animation,Late Night,Standard 2D,3,294.3,59.2,525.52,Saturday,Weekend,882.9000000000001,1408.42
+C00477,2025-08-05,Galaxy Quest,Sci-Fi,Evening,3D,7,246.9,25.9,34.98,Tuesday,Weekday,1728.3,1763.28
+C00478,2025-05-16,Ocean Planet,Action,Matinee,3D,1,259.44,89.1,25.59,Friday,Weekday,259.44,285.03
+C00479,2026-04-17,Hidden City,Action,Evening,IMAX,2,352.31,63.1,612.44,Friday,Weekday,704.62,1317.06
+C00480,2025-04-16,Robot Reborn,Comedy,Late Night,IMAX,3,328.65,53.3,77.01,Wednesday,Weekday,985.9499999999999,1062.96
+C00481,2026-03-28,Laugh Out Loud,Comedy,Evening,IMAX,7,223.23,51.8,504.72,Saturday,Weekend,1562.61,2067.33
+C00482,2025-04-24,Laugh Out Loud,Action,Late Night,Standard 2D,4,163.09,22.3,139.68,Thursday,Weekday,652.36,792.04
+C00483,2025-08-13,Ocean Planet,Drama,Late Night,3D,5,406.81,61.5,256.35,Wednesday,Weekday,2034.05,2290.4
+C00484,2025-12-05,Galaxy Quest,Action,Evening,Standard 2D,5,297.69,58.0,205.48,Friday,Weekday,1488.45,1693.93
+C00485,2025-04-19,Ocean Planet,Comedy,Late Night,3D,4,335.62,47.7,343.23,Saturday,Weekend,1342.48,1685.71
+C00486,2026-06-16,Galaxy Quest,Sci-Fi,Evening,Standard 2D,7,296.55,72.7,578.66,Tuesday,Weekday,2075.85,2654.5099999999998
+C00487,2026-04-10,Galaxy Quest,Drama,Evening,IMAX,7,335.68,52.9,612.87,Friday,Weekday,2349.76,2962.63
+C00488,2025-01-11,The Last Journey,Comedy,Late Night,3D,4,338.09,65.7,155.43,Saturday,Weekend,1352.36,1507.79
+C00489,2026-07-22,Robot Reborn,Drama,Matinee,IMAX,5,154.51,90.8,236.35,Wednesday,Weekday,772.55,1008.9
+C00490,2026-04-25,Robot Reborn,Animation,Late Night,Standard 2D,5,309.98,49.1,585.84,Saturday,Weekend,1549.9,2135.7400000000002
+C00491,2026-07-15,Laugh Out Loud,Action,Evening,IMAX,5,300.63,51.8,62.74,Wednesday,Weekday,1503.15,1565.89
+C00492,2026-02-07,Laugh Out Loud,Comedy,Evening,3D,1,178.75,89.3,81.83,Saturday,Weekend,178.75,260.58
+C00493,2026-02-24,The Last Journey,Drama,Late Night,Standard 2D,2,373.76,48.6,335.71,Tuesday,Weekday,747.52,1083.23
+C00494,2025-09-14,Galaxy Quest,Comedy,Evening,3D,7,220.76,55.1,553.1,Sunday,Weekend,1545.32,2098.42
+C00495,2025-06-02,Ocean Planet,Comedy,Late Night,Standard 2D,2,166.36,84.1,235.18,Monday,Weekday,332.72,567.9000000000001
+C00496,2025-06-07,Robot Reborn,Sci-Fi,Evening,Standard 2D,5,390.95,67.3,48.6,Saturday,Weekend,1954.75,2003.35
+C00497,2025-07-31,Ocean Planet,Animation,Matinee,Standard 2D,7,409.54,94.7,677.51,Thursday,Weekday,2866.78,3544.29
+C00498,2025-07-14,The Last Journey,Comedy,Evening,IMAX,5,222.21,57.7,657.24,Monday,Weekday,1111.05,1768.29
+C00499,2026-05-20,Hidden City,Drama,Matinee,IMAX,2,356.26,58.3,456.33,Wednesday,Weekday,712.52,1168.85
+C00500,2025-12-17,The Last Journey,Comedy,Late Night,3D,7,151.49,23.4,477.31,Wednesday,Weekday,1060.43,1537.74
+C00501,2025-10-02,The Last Journey,Comedy,Matinee,IMAX,1,366.34,35.8,0.0,Thursday,Weekday,366.34,366.34
+C00502,2026-05-01,Laugh Out Loud,Animation,Evening,Standard 2D,6,289.45,63.2,450.7,Friday,Weekday,1736.6999999999998,2187.3999999999996
+C00503,2026-05-06,Robot Reborn,Comedy,Late Night,Standard 2D,2,387.74,35.0,551.89,Wednesday,Weekday,775.48,1327.37
+C00504,2026-09-18,Hidden City,Animation,Matinee,Standard 2D,5,267.91,56.3,324.46,Friday,Weekday,1339.5500000000002,1664.0100000000002
+C00505,2025-07-27,Galaxy Quest,Sci-Fi,Evening,IMAX,4,255.32,42.7,159.6,Sunday,Weekend,1021.28,1180.8799999999999
+C00506,2025-06-12,The Last Journey,Comedy,Evening,IMAX,4,402.24,21.7,582.77,Thursday,Weekday,1608.96,2191.73
+C00507,2025-01-05,Laugh Out Loud,Drama,Evening,IMAX,3,161.59,58.0,479.07,Sunday,Weekend,484.77,963.8399999999999
+C00508,2025-04-17,The Last Journey,Drama,Late Night,IMAX,4,206.15,71.7,202.69,Thursday,Weekday,824.6,1027.29
+C00509,2026-02-08,Laugh Out Loud,Action,Matinee,Standard 2D,7,273.64,47.1,436.29,Sunday,Weekend,1915.48,2351.77
+C00510,2026-06-26,Ocean Planet,Comedy,Evening,3D,6,328.9,82.1,571.54,Friday,Weekday,1973.3999999999999,2544.9399999999996
+C00511,2026-02-07,The Last Journey,Animation,Matinee,3D,3,151.53,31.7,189.24,Saturday,Weekend,454.59000000000003,643.83
+C00512,2026-10-26,Ocean Planet,Action,Evening,IMAX,7,322.54,27.3,537.71,Monday,Weekday,2257.78,2795.4900000000002
+C00513,2026-02-24,Robot Reborn,Animation,Late Night,IMAX,7,263.55,94.8,50.64,Tuesday,Weekday,1844.8500000000001,1895.4900000000002
+C00514,2026-08-14,Laugh Out Loud,Animation,Matinee,3D,5,339.0,93.7,437.46,Friday,Weekday,1695.0,2132.46
+C00515,2025-06-29,Laugh Out Loud,Comedy,Evening,Standard 2D,5,422.09,52.5,699.25,Sunday,Weekend,2110.45,2809.7
+C00516,2025-08-05,Laugh Out Loud,Drama,Matinee,IMAX,1,282.26,53.6,606.46,Tuesday,Weekday,282.26,888.72
+C00517,2026-06-27,The Last Journey,Comedy,Matinee,IMAX,4,316.37,88.1,612.96,Saturday,Weekend,1265.48,1878.44
+C00518,2026-03-19,Galaxy Quest,Animation,Late Night,IMAX,2,288.84,62.4,476.25,Thursday,Weekday,577.68,1053.9299999999998
+C00519,2025-11-23,Robot Reborn,Action,Late Night,Standard 2D,2,185.56,29.4,322.83,Sunday,Weekend,371.12,693.95
+C00520,2026-10-02,The Last Journey,Comedy,Late Night,Standard 2D,7,387.93,29.2,474.05,Friday,Weekday,2715.51,3189.5600000000004
+C00521,2026-05-26,Galaxy Quest,Action,Evening,IMAX,2,415.56,30.5,224.83,Tuesday,Weekday,831.12,1055.95
+C00522,2025-07-17,Laugh Out Loud,Sci-Fi,Evening,IMAX,5,393.44,82.5,386.94,Thursday,Weekday,1967.2,2354.14
+C00523,2026-02-13,The Last Journey,Action,Late Night,IMAX,7,434.28,68.2,377.78,Friday,Weekday,3039.96,3417.74
+C00524,2025-09-22,Robot Reborn,Drama,Evening,3D,5,290.41,44.0,380.61,Monday,Weekday,1452.0500000000002,1832.6600000000003
+C00525,2025-10-06,Galaxy Quest,Sci-Fi,Late Night,IMAX,6,345.7,33.0,288.39,Monday,Weekday,2074.2,2362.5899999999997
+C00526,2026-06-23,Laugh Out Loud,Sci-Fi,Matinee,Standard 2D,6,200.5,29.9,246.96,Tuesday,Weekday,1203.0,1449.96
+C00527,2026-03-31,Ocean Planet,Drama,Matinee,IMAX,4,443.04,79.3,231.25,Tuesday,Weekday,1772.16,2003.41
+C00528,2025-01-09,Laugh Out Loud,Comedy,Evening,3D,7,324.17,90.9,157.31,Thursday,Weekday,2269.19,2426.5
+C00529,2026-01-20,Ocean Planet,Action,Matinee,Standard 2D,7,228.5,62.5,306.98,Tuesday,Weekday,1599.5,1906.48
+C00530,2026-03-09,Robot Reborn,Comedy,Matinee,IMAX,3,391.61,81.8,82.42,Monday,Weekday,1174.83,1257.25
+C00531,2025-12-08,Ocean Planet,Action,Matinee,3D,6,325.95,42.7,631.1,Monday,Weekday,1955.6999999999998,2586.7999999999997
+C00532,2025-07-20,Laugh Out Loud,Animation,Matinee,Standard 2D,2,434.9,66.9,48.78,Sunday,Weekend,869.8,918.5799999999999
+C00533,2026-03-10,Galaxy Quest,Action,Late Night,IMAX,1,380.99,55.0,586.19,Tuesday,Weekday,380.99,967.1800000000001
+C00534,2026-09-26,The Last Journey,Sci-Fi,Evening,IMAX,4,413.18,27.0,168.87,Saturday,Weekend,1652.72,1821.5900000000001
+C00535,2025-02-27,Hidden City,Comedy,Late Night,Standard 2D,5,314.0,59.0,597.25,Thursday,Weekday,1570.0,2167.25
+C00536,2026-02-08,Ocean Planet,Drama,Matinee,IMAX,5,305.19,87.7,504.19,Sunday,Weekend,1525.95,2030.14
+C00537,2026-09-01,Laugh Out Loud,Comedy,Matinee,IMAX,6,377.2,24.1,644.68,Tuesday,Weekday,2263.2,2907.8799999999997
+C00538,2025-09-25,The Last Journey,Action,Evening,Standard 2D,3,181.5,58.2,609.16,Thursday,Weekday,544.5,1153.6599999999999
+C00539,2025-08-13,Robot Reborn,Comedy,Late Night,3D,6,166.21,89.9,490.76,Wednesday,Weekday,997.26,1488.02
+C00540,2025-06-15,Ocean Planet,Sci-Fi,Late Night,IMAX,7,445.11,83.2,106.18,Sunday,Weekend,3115.77,3221.95
+C00541,2025-05-31,Galaxy Quest,Comedy,Late Night,Standard 2D,1,424.89,59.5,384.33,Saturday,Weekend,424.89,809.22
+C00542,2025-09-19,The Last Journey,Drama,Evening,IMAX,4,436.7,33.7,237.88,Friday,Weekday,1746.8,1984.6799999999998
+C00543,2026-06-01,Hidden City,Comedy,Late Night,3D,2,168.71,87.9,620.04,Monday,Weekday,337.42,957.46
+C00544,2025-05-02,The Last Journey,Animation,Matinee,IMAX,5,230.79,32.3,610.56,Friday,Weekday,1153.95,1764.51
+C00545,2025-06-04,Hidden City,Sci-Fi,Evening,IMAX,3,420.46,42.1,219.83,Wednesday,Weekday,1261.3799999999999,1481.2099999999998
+C00546,2026-10-31,Laugh Out Loud,Action,Matinee,3D,2,176.84,29.9,470.19,Saturday,Weekend,353.68,823.87
+C00547,2026-10-29,Laugh Out Loud,Drama,Matinee,3D,2,285.43,56.7,236.8,Thursday,Weekday,570.86,807.6600000000001
+C00548,2025-06-01,The Last Journey,Action,Evening,3D,3,252.39,70.3,0.0,Sunday,Weekend,757.17,757.17
+C00549,2025-10-09,Laugh Out Loud,Drama,Late Night,3D,1,413.96,86.2,429.71,Thursday,Weekday,413.96,843.67
+C00550,2025-09-27,Ocean Planet,Sci-Fi,Matinee,IMAX,1,305.42,56.9,357.66,Saturday,Weekend,305.42,663.08
+C00551,2025-07-18,Laugh Out Loud,Animation,Late Night,3D,5,237.11,97.7,614.88,Friday,Weekday,1185.5500000000002,1800.4300000000003
+C00552,2025-04-13,Galaxy Quest,Comedy,Evening,3D,7,307.29,67.7,172.24,Sunday,Weekend,2151.03,2323.2700000000004
+C00553,2025-02-11,The Last Journey,Sci-Fi,Late Night,IMAX,4,183.73,68.4,558.23,Tuesday,Weekday,734.92,1293.15
+C00554,2026-02-15,Robot Reborn,Drama,Matinee,IMAX,7,369.36,34.0,482.66,Sunday,Weekend,2585.52,3068.18
+C00555,2025-01-28,Galaxy Quest,Comedy,Late Night,3D,2,335.5,35.2,196.89,Tuesday,Weekday,671.0,867.89
+C00556,2026-02-20,The Last Journey,Animation,Matinee,3D,7,330.21,66.1,295.18,Friday,Weekday,2311.47,2606.6499999999996
+C00557,2025-03-05,Ocean Planet,Drama,Evening,3D,5,281.35,77.7,48.31,Wednesday,Weekday,1406.75,1455.06
+C00558,2025-04-14,Hidden City,Drama,Late Night,3D,6,238.27,36.4,418.3,Monday,Weekday,1429.6200000000001,1847.92
+C00559,2025-01-04,Galaxy Quest,Action,Late Night,3D,1,169.61,58.7,621.52,Saturday,Weekend,169.61,791.13
+C00560,2025-09-24,Ocean Planet,Drama,Matinee,Standard 2D,5,434.11,48.5,82.47,Wednesday,Weekday,2170.55,2253.02
+C00561,2025-08-07,Robot Reborn,Action,Matinee,3D,3,274.97,55.1,92.4,Thursday,Weekday,824.9100000000001,917.3100000000001
+C00562,2025-08-11,Laugh Out Loud,Animation,Evening,3D,7,298.78,37.8,332.2,Monday,Weekday,2091.46,2423.66
+C00563,2025-07-27,The Last Journey,Animation,Evening,Standard 2D,6,262.73,31.3,196.86,Sunday,Weekend,1576.38,1773.2400000000002
+C00564,2026-09-20,Ocean Planet,Comedy,Matinee,IMAX,7,446.36,45.6,193.85,Sunday,Weekend,3124.52,3318.37
+C00565,2025-10-15,Ocean Planet,Comedy,Matinee,IMAX,7,388.85,89.5,447.07,Wednesday,Weekday,2721.9500000000003,3169.0200000000004
+C00566,2026-06-26,Robot Reborn,Drama,Matinee,Standard 2D,6,178.73,84.4,287.18,Friday,Weekday,1072.3799999999999,1359.56
+C00567,2025-06-05,Hidden City,Action,Matinee,Standard 2D,2,332.45,28.1,591.25,Thursday,Weekday,664.9,1256.15
+C00568,2025-11-20,Ocean Planet,Comedy,Evening,3D,2,295.39,27.0,300.23,Thursday,Weekday,590.78,891.01
+C00569,2025-02-11,Robot Reborn,Action,Matinee,IMAX,7,388.01,59.4,430.69,Tuesday,Weekday,2716.0699999999997,3146.7599999999998
+C00570,2025-06-23,Galaxy Quest,Animation,Late Night,3D,5,449.19,42.2,278.52,Monday,Weekday,2245.95,2524.47
+C00571,2025-02-17,Laugh Out Loud,Drama,Late Night,IMAX,7,373.29,85.9,0.0,Monday,Weekday,2613.03,2613.03
+C00572,2025-01-14,Galaxy Quest,Sci-Fi,Matinee,Standard 2D,6,409.48,58.9,329.93,Tuesday,Weekday,2456.88,2786.81
+C00573,2025-05-02,Laugh Out Loud,Drama,Late Night,3D,5,300.79,88.2,504.34,Friday,Weekday,1503.95,2008.29
+C00574,2025-04-17,Hidden City,Action,Evening,IMAX,2,262.08,28.7,666.97,Thursday,Weekday,524.16,1191.13
+C00575,2025-07-31,Ocean Planet,Comedy,Matinee,IMAX,7,342.98,97.6,29.52,Thursday,Weekday,2400.86,2430.38
+C00576,2026-05-13,The Last Journey,Action,Matinee,Standard 2D,2,374.83,81.4,372.28,Wednesday,Weekday,749.66,1121.94
+C00577,2025-04-10,Hidden City,Drama,Evening,IMAX,2,218.26,78.6,445.18,Thursday,Weekday,436.52,881.7
+C00578,2026-02-13,Robot Reborn,Drama,Late Night,Standard 2D,2,301.02,95.2,60.0,Friday,Weekday,602.04,662.04
+C00579,2025-09-02,Laugh Out Loud,Animation,Matinee,Standard 2D,1,184.14,57.6,580.42,Tuesday,Weekday,184.14,764.56
+C00580,2025-09-27,The Last Journey,Comedy,Matinee,IMAX,3,214.91,31.9,193.17,Saturday,Weekend,644.73,837.9
+C00581,2026-09-09,Galaxy Quest,Sci-Fi,Evening,IMAX,6,414.56,59.8,612.44,Wednesday,Weekday,2487.36,3099.8
+C00582,2025-11-08,Ocean Planet,Comedy,Late Night,Standard 2D,7,193.42,85.2,386.82,Saturday,Weekend,1353.9399999999998,1740.7599999999998
+C00583,2025-06-25,Robot Reborn,Animation,Matinee,IMAX,4,393.4,88.8,106.46,Wednesday,Weekday,1573.6,1680.06
+C00584,2025-06-09,Robot Reborn,Comedy,Late Night,IMAX,3,261.78,59.1,517.45,Monday,Weekday,785.3399999999999,1302.79
+C00585,2025-04-23,Galaxy Quest,Animation,Evening,Standard 2D,3,349.06,78.6,110.06,Wednesday,Weekday,1047.18,1157.24
+C00586,2026-06-21,Laugh Out Loud,Animation,Matinee,Standard 2D,7,423.1,39.8,504.26,Sunday,Weekend,2961.7000000000003,3465.96
+C00587,2026-03-21,The Last Journey,Animation,Late Night,Standard 2D,1,384.27,38.4,565.74,Saturday,Weekend,384.27,950.01
+C00588,2025-06-29,Galaxy Quest,Sci-Fi,Matinee,IMAX,1,397.78,66.9,402.87,Sunday,Weekend,397.78,800.65
+C00589,2025-11-25,Laugh Out Loud,Animation,Evening,3D,1,228.34,53.7,189.76,Tuesday,Weekday,228.34,418.1
+C00590,2025-12-05,The Last Journey,Sci-Fi,Evening,3D,7,258.5,32.9,306.14,Friday,Weekday,1809.5,2115.64
+C00591,2025-02-01,Laugh Out Loud,Drama,Late Night,3D,1,369.84,80.9,369.61,Saturday,Weekend,369.84,739.45
+C00592,2026-08-31,The Last Journey,Action,Late Night,3D,7,383.17,62.6,466.05,Monday,Weekday,2682.19,3148.2400000000002
+C00593,2026-06-12,Robot Reborn,Drama,Late Night,3D,2,387.02,61.6,443.75,Friday,Weekday,774.04,1217.79
+C00594,2025-12-25,The Last Journey,Comedy,Evening,Standard 2D,4,372.03,35.1,280.3,Thursday,Weekday,1488.12,1768.4199999999998
+C00595,2026-04-24,The Last Journey,Action,Matinee,3D,7,219.49,39.3,530.72,Friday,Weekday,1536.43,2067.15
+C00596,2025-03-15,Hidden City,Drama,Matinee,Standard 2D,1,236.73,75.4,539.99,Saturday,Weekend,236.73,776.72
+C00597,2026-10-16,Laugh Out Loud,Sci-Fi,Evening,IMAX,2,432.61,88.2,487.43,Friday,Weekday,865.22,1352.65
+C00598,2026-03-05,Robot Reborn,Drama,Evening,Standard 2D,6,316.16,34.2,190.51,Thursday,Weekday,1896.96,2087.4700000000003
+C00599,2026-09-20,Robot Reborn,Sci-Fi,Matinee,Standard 2D,6,376.34,85.0,328.58,Sunday,Weekend,2258.04,2586.62
+C00600,2026-08-02,Hidden City,Animation,Matinee,3D,7,329.76,83.0,302.93,Sunday,Weekend,2308.3199999999997,2611.2499999999995
+C00601,2026-01-26,The Last Journey,Action,Evening,3D,1,427.35,85.2,571.75,Monday,Weekday,427.35,999.1
+C00602,2025-07-12,The Last Journey,Sci-Fi,Late Night,3D,6,410.63,66.5,565.73,Saturday,Weekend,2463.7799999999997,3029.5099999999998
+C00603,2026-04-04,The Last Journey,Animation,Late Night,IMAX,3,228.41,48.1,606.26,Saturday,Weekend,685.23,1291.49
+C00604,2025-12-09,The Last Journey,Action,Late Night,IMAX,4,415.41,81.7,161.82,Tuesday,Weekday,1661.64,1823.46
+C00605,2025-10-01,Laugh Out Loud,Sci-Fi,Evening,3D,7,240.01,58.4,523.92,Wednesday,Weekday,1680.07,2203.99
+C00606,2026-04-21,Hidden City,Comedy,Late Night,IMAX,7,282.29,37.7,609.28,Tuesday,Weekday,1976.0300000000002,2585.3100000000004
+C00607,2026-08-18,Ocean Planet,Sci-Fi,Evening,3D,2,405.37,52.2,116.54,Tuesday,Weekday,810.74,927.28
+C00608,2025-04-25,Hidden City,Action,Evening,Standard 2D,4,247.21,56.6,27.96,Friday,Weekday,988.84,1016.8000000000001
+C00609,2026-01-05,Robot Reborn,Comedy,Matinee,Standard 2D,2,237.23,60.4,73.86,Monday,Weekday,474.46,548.3199999999999
+C00610,2026-06-05,The Last Journey,Drama,Evening,Standard 2D,5,350.6,91.8,424.34,Friday,Weekday,1753.0,2177.34
+C00611,2025-08-06,Galaxy Quest,Action,Matinee,Standard 2D,6,449.9,52.9,295.15,Wednesday,Weekday,2699.3999999999996,2994.5499999999997
+C00612,2025-08-17,Galaxy Quest,Sci-Fi,Evening,IMAX,3,189.32,42.8,136.54,Sunday,Weekend,567.96,704.5
+C00613,2025-01-07,Laugh Out Loud,Comedy,Late Night,3D,1,360.32,97.0,369.81,Tuesday,Weekday,360.32,730.13
+C00614,2025-08-05,Laugh Out Loud,Animation,Evening,3D,1,308.09,39.4,549.87,Tuesday,Weekday,308.09,857.96
+C00615,2026-01-28,Hidden City,Action,Matinee,3D,1,273.19,20.9,599.07,Wednesday,Weekday,273.19,872.26
+C00616,2026-10-12,Laugh Out Loud,Sci-Fi,Late Night,Standard 2D,3,374.96,88.0,526.2,Monday,Weekday,1124.8799999999999,1651.08
+C00617,2025-12-18,Hidden City,Sci-Fi,Late Night,IMAX,7,316.45,96.4,619.86,Thursday,Weekday,2215.15,2835.01
+C00618,2025-07-14,The Last Journey,Sci-Fi,Evening,Standard 2D,2,389.34,74.6,422.93,Monday,Weekday,778.68,1201.61
+C00619,2026-06-28,Ocean Planet,Drama,Matinee,3D,3,373.16,52.6,585.95,Sunday,Weekend,1119.48,1705.43
+C00620,2025-05-06,Galaxy Quest,Sci-Fi,Matinee,IMAX,5,445.54,63.5,292.03,Tuesday,Weekday,2227.7000000000003,2519.7300000000005
+C00621,2025-05-06,Robot Reborn,Drama,Matinee,IMAX,5,393.26,86.6,596.74,Tuesday,Weekday,1966.3,2563.04
+C00622,2025-12-15,Laugh Out Loud,Sci-Fi,Late Night,3D,2,170.04,90.8,627.07,Monday,Weekday,340.08,967.1500000000001
+C00623,2026-06-30,The Last Journey,Comedy,Matinee,IMAX,1,383.87,28.2,480.49,Tuesday,Weekday,383.87,864.36
+C00624,2025-05-23,Robot Reborn,Comedy,Evening,Standard 2D,2,344.91,89.4,301.73,Friday,Weekday,689.82,991.5500000000001
+C00625,2025-01-11,The Last Journey,Comedy,Late Night,Standard 2D,2,176.94,69.4,197.17,Saturday,Weekend,353.88,551.05
+C00626,2026-04-30,Ocean Planet,Action,Late Night,3D,1,331.65,22.6,227.63,Thursday,Weekday,331.65,559.28
+C00627,2026-01-28,The Last Journey,Drama,Matinee,Standard 2D,4,375.24,28.7,92.65,Wednesday,Weekday,1500.96,1593.6100000000001
+C00628,2026-04-04,Ocean Planet,Drama,Late Night,Standard 2D,5,209.16,23.6,33.01,Saturday,Weekend,1045.8,1078.81
+C00629,2025-09-23,Hidden City,Animation,Late Night,IMAX,5,280.47,95.9,290.09,Tuesday,Weekday,1402.3500000000001,1692.44
+C00630,2025-03-21,The Last Journey,Comedy,Evening,IMAX,7,312.75,54.1,29.87,Friday,Weekday,2189.25,2219.12
+C00631,2025-08-10,Ocean Planet,Action,Matinee,Standard 2D,3,273.95,77.2,616.41,Sunday,Weekend,821.8499999999999,1438.2599999999998
+C00632,2025-11-11,Laugh Out Loud,Action,Late Night,Standard 2D,5,412.8,20.1,454.97,Tuesday,Weekday,2064.0,2518.9700000000003
+C00633,2025-10-17,The Last Journey,Animation,Evening,3D,7,200.67,83.5,590.57,Friday,Weekday,1404.6899999999998,1995.2599999999998
+C00634,2026-08-18,Hidden City,Action,Evening,Standard 2D,1,381.47,58.6,311.09,Tuesday,Weekday,381.47,692.56
+C00635,2025-05-30,Galaxy Quest,Action,Evening,Standard 2D,6,383.43,93.9,156.77,Friday,Weekday,2300.58,2457.35
+C00636,2025-07-28,Laugh Out Loud,Drama,Matinee,IMAX,1,284.41,61.7,203.2,Monday,Weekday,284.41,487.61
+C00637,2025-05-03,The Last Journey,Drama,Evening,IMAX,4,311.84,83.1,598.31,Saturday,Weekend,1247.36,1845.6699999999998
+C00638,2026-01-17,The Last Journey,Action,Matinee,IMAX,6,196.07,70.4,85.33,Saturday,Weekend,1176.42,1261.75
+C00639,2026-06-23,Laugh Out Loud,Animation,Matinee,Standard 2D,4,208.55,61.6,488.79,Tuesday,Weekday,834.2,1322.99
+C00640,2026-08-14,Robot Reborn,Action,Evening,IMAX,4,309.5,95.9,0.0,Friday,Weekday,1238.0,1238.0
+C00641,2025-06-02,Robot Reborn,Sci-Fi,Matinee,Standard 2D,5,217.4,59.6,247.22,Monday,Weekday,1087.0,1334.22
+C00642,2025-10-15,Robot Reborn,Animation,Late Night,IMAX,5,391.94,91.4,2.13,Wednesday,Weekday,1959.7,1961.8300000000002
+C00643,2026-05-09,Hidden City,Sci-Fi,Late Night,3D,6,334.87,22.9,335.36,Saturday,Weekend,2009.22,2344.58
+C00644,2025-01-31,Robot Reborn,Action,Evening,Standard 2D,7,166.97,72.6,89.85,Friday,Weekday,1168.79,1258.6399999999999
+C00645,2026-04-21,The Last Journey,Sci-Fi,Evening,IMAX,1,257.36,92.9,601.75,Tuesday,Weekday,257.36,859.11
+C00646,2025-03-31,The Last Journey,Drama,Matinee,3D,3,407.53,91.9,68.41,Monday,Weekday,1222.59,1291.0
+C00647,2025-01-23,The Last Journey,Comedy,Matinee,Standard 2D,6,233.23,58.8,175.26,Thursday,Weekday,1399.3799999999999,1574.6399999999999
+C00648,2025-03-17,Ocean Planet,Drama,Late Night,IMAX,3,365.92,57.8,10.36,Monday,Weekday,1097.76,1108.12
+C00649,2026-08-13,Laugh Out Loud,Sci-Fi,Evening,IMAX,4,178.14,84.8,695.01,Thursday,Weekday,712.56,1407.57
+C00650,2026-04-01,Galaxy Quest,Comedy,Late Night,3D,6,429.16,46.8,449.01,Wednesday,Weekday,2574.96,3023.9700000000003
+C00651,2026-06-13,Robot Reborn,Action,Matinee,3D,7,284.8,95.0,450.5,Saturday,Weekend,1993.6000000000001,2444.1000000000004
+C00652,2026-04-07,The Last Journey,Comedy,Matinee,Standard 2D,2,297.47,40.1,363.2,Tuesday,Weekday,594.94,958.1400000000001
+C00653,2026-06-17,The Last Journey,Sci-Fi,Evening,3D,7,320.95,26.0,607.64,Wednesday,Weekday,2246.65,2854.29
+C00654,2025-11-29,Laugh Out Loud,Animation,Late Night,IMAX,5,259.03,81.8,100.93,Saturday,Weekend,1295.1499999999999,1396.08
+C00655,2026-06-26,Robot Reborn,Animation,Evening,3D,1,367.59,52.4,555.0,Friday,Weekday,367.59,922.5899999999999
+C00656,2025-02-07,Galaxy Quest,Action,Late Night,IMAX,7,154.38,48.5,564.99,Friday,Weekday,1080.6599999999999,1645.6499999999999
+C00657,2026-01-25,Hidden City,Animation,Matinee,Standard 2D,3,198.66,45.7,25.29,Sunday,Weekend,595.98,621.27
+C00658,2026-05-21,Galaxy Quest,Comedy,Late Night,Standard 2D,2,206.65,98.4,92.87,Thursday,Weekday,413.3,506.17
+C00659,2026-10-27,The Last Journey,Sci-Fi,Evening,Standard 2D,4,340.6,65.7,383.0,Tuesday,Weekday,1362.4,1745.4
+C00660,2025-08-29,Galaxy Quest,Drama,Matinee,Standard 2D,5,417.18,99.4,0.0,Friday,Weekday,2085.9,2085.9
+C00661,2025-04-30,Hidden City,Sci-Fi,Evening,IMAX,4,169.09,47.5,197.66,Wednesday,Weekday,676.36,874.02
+C00662,2026-04-27,Robot Reborn,Drama,Late Night,3D,1,405.74,53.1,282.57,Monday,Weekday,405.74,688.31
+C00663,2025-02-18,Hidden City,Comedy,Late Night,Standard 2D,6,395.85,36.9,110.05,Tuesday,Weekday,2375.1000000000004,2485.1500000000005
+C00664,2026-06-04,Ocean Planet,Drama,Matinee,3D,3,172.99,54.4,492.9,Thursday,Weekday,518.97,1011.87
+C00665,2026-04-17,Hidden City,Drama,Late Night,IMAX,1,192.97,25.0,346.54,Friday,Weekday,192.97,539.51
+C00666,2026-04-08,Laugh Out Loud,Comedy,Matinee,IMAX,4,255.01,20.0,447.87,Wednesday,Weekday,1020.04,1467.9099999999999
+C00667,2025-07-16,Laugh Out Loud,Animation,Evening,Standard 2D,5,184.4,56.2,332.01,Wednesday,Weekday,922.0,1254.01
+C00668,2025-03-22,Galaxy Quest,Sci-Fi,Evening,IMAX,1,377.49,79.7,288.74,Saturday,Weekend,377.49,666.23
+C00669,2026-02-11,Robot Reborn,Sci-Fi,Late Night,3D,7,301.22,55.0,344.67,Wednesday,Weekday,2108.54,2453.21
+C00670,2025-08-31,Laugh Out Loud,Drama,Evening,IMAX,5,273.23,61.4,629.66,Sunday,Weekend,1366.15,1995.81
+C00671,2025-09-20,Galaxy Quest,Comedy,Matinee,3D,7,367.48,55.6,277.23,Saturday,Weekend,2572.36,2849.59
+C00672,2025-05-06,The Last Journey,Comedy,Evening,IMAX,5,237.87,62.1,449.58,Tuesday,Weekday,1189.35,1638.9299999999998
+C00673,2025-08-12,Robot Reborn,Sci-Fi,Late Night,IMAX,1,411.46,82.0,583.77,Tuesday,Weekday,411.46,995.23
+C00674,2026-07-11,Laugh Out Loud,Action,Late Night,IMAX,2,346.19,84.3,434.76,Saturday,Weekend,692.38,1127.1399999999999
+C00675,2026-08-21,Robot Reborn,Action,Matinee,Standard 2D,7,253.95,87.0,158.25,Friday,Weekday,1777.6499999999999,1935.8999999999999
+C00676,2025-08-22,The Last Journey,Comedy,Evening,IMAX,4,311.96,37.0,85.37,Friday,Weekday,1247.84,1333.21
+C00677,2025-04-06,Hidden City,Animation,Matinee,Standard 2D,1,227.83,56.6,413.61,Sunday,Weekend,227.83,641.44
+C00678,2025-01-23,Robot Reborn,Sci-Fi,Evening,IMAX,1,445.49,86.5,509.18,Thursday,Weekday,445.49,954.6700000000001
+C00679,2025-05-07,Hidden City,Animation,Evening,3D,4,280.68,95.4,538.12,Wednesday,Weekday,1122.72,1660.8400000000001
+C00680,2025-01-07,The Last Journey,Drama,Late Night,Standard 2D,5,419.03,63.4,485.66,Tuesday,Weekday,2095.1499999999996,2580.8099999999995
+C00681,2026-03-23,The Last Journey,Drama,Matinee,Standard 2D,2,443.41,59.4,2.42,Monday,Weekday,886.82,889.24
+C00682,2026-03-06,Hidden City,Sci-Fi,Late Night,IMAX,2,310.74,81.2,541.69,Friday,Weekday,621.48,1163.17
+C00683,2026-06-08,Galaxy Quest,Action,Late Night,3D,5,369.0,99.3,423.24,Monday,Weekday,1845.0,2268.24
+C00684,2025-08-11,Hidden City,Animation,Evening,Standard 2D,4,321.67,54.1,691.73,Monday,Weekday,1286.68,1978.41
+C00685,2026-07-11,Galaxy Quest,Sci-Fi,Evening,IMAX,1,177.47,33.2,535.21,Saturday,Weekend,177.47,712.6800000000001
+C00686,2025-04-24,Galaxy Quest,Comedy,Evening,IMAX,1,435.73,86.7,301.15,Thursday,Weekday,435.73,736.88
+C00687,2025-06-04,Ocean Planet,Action,Matinee,Standard 2D,2,286.99,76.8,473.3,Wednesday,Weekday,573.98,1047.28
+C00688,2026-09-05,The Last Journey,Drama,Late Night,Standard 2D,4,418.22,31.6,431.16,Saturday,Weekend,1672.88,2104.04
+C00689,2026-08-14,Hidden City,Animation,Evening,IMAX,3,346.68,45.9,236.18,Friday,Weekday,1040.04,1276.22
+C00690,2026-02-05,Hidden City,Action,Matinee,3D,1,181.56,64.3,373.47,Thursday,Weekday,181.56,555.03
+C00691,2026-02-12,Laugh Out Loud,Action,Evening,Standard 2D,7,275.12,78.5,143.07,Thursday,Weekday,1925.8400000000001,2068.9100000000003
+C00692,2026-04-14,Hidden City,Drama,Late Night,3D,5,208.75,82.5,61.48,Tuesday,Weekday,1043.75,1105.23
+C00693,2026-07-05,Galaxy Quest,Drama,Late Night,IMAX,5,200.96,32.5,513.12,Sunday,Weekend,1004.8000000000001,1517.92
+C00694,2025-06-04,Galaxy Quest,Sci-Fi,Matinee,3D,2,364.53,37.3,268.89,Wednesday,Weekday,729.06,997.9499999999999
+C00695,2025-02-15,Hidden City,Action,Late Night,IMAX,5,159.01,79.5,529.0,Saturday,Weekend,795.05,1324.05
+C00696,2025-05-04,Hidden City,Sci-Fi,Late Night,Standard 2D,7,439.84,29.3,341.84,Sunday,Weekend,3078.8799999999997,3420.72
+C00697,2025-08-27,The Last Journey,Sci-Fi,Matinee,IMAX,5,284.98,59.9,566.85,Wednesday,Weekday,1424.9,1991.75
+C00698,2025-06-07,Laugh Out Loud,Drama,Evening,3D,3,296.93,63.7,517.73,Saturday,Weekend,890.79,1408.52
+C00699,2025-12-18,Laugh Out Loud,Comedy,Late Night,IMAX,3,239.83,47.1,534.89,Thursday,Weekday,719.49,1254.38
